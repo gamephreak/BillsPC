@@ -1,12 +1,12 @@
 === [gen2ou] Modified_Thieving_Bandits ===
 
-Nidoking @ Leftovers
+Nidoking @ (No Item)
 - Earthquake
 - Ice Beam
 - Thunder
 - Thief
 
-Jynx @ Leftovers
+Jynx @ (No Item)
 - Lovely Kiss
 - Nightmare
 - Ice Beam
@@ -18,7 +18,7 @@ Snorlax @ Leftovers
 - Sleep Talk
 - Double-Edge
 
-Gengar @ Leftovers
+Gengar @ (No Item)
 - Thief
 - Explosion
 - Thunderbolt
@@ -831,7 +831,7 @@ Miltank @ Leftovers
 
 === [gen2ou] Lavos (Tentacruel No Phazer) ===
 
-Nidoking
+Nidoking @ (No Item)
 - Thief
 - Lovely Kiss
 - Earthquake
@@ -1210,7 +1210,7 @@ Tentacruel @ Leftovers
 - Surf
 - Sludge Bomb
 
-Skarmory
+Skarmory @ (No Item)
 - Rest
 - Thief
 - Toxic
@@ -1250,7 +1250,7 @@ IVs: 6 HP / 28 Atk / 24 Def
 - Giga Drain
 - Hidden Power [Fire]
 
-Skarmory
+Skarmory @ (No Item)
 - Rest
 - Thief
 - Drill Peck
@@ -1471,7 +1471,7 @@ Snorlax @ Leftovers
 - Lovely Kiss
 - Double-Edge
 
-Gengar
+Gengar @ (No Item)
 - Thief
 - Thunderbolt
 - Ice Punch
@@ -1671,7 +1671,7 @@ Snorlax @ Leftovers
 - Body Slam
 - Fire Blast
 
-Misdreavus
+Misdreavus @ (No Item)
 - Thief
 - Hypnosis
 - Thunder
@@ -1959,3 +1959,514 @@ Alakazam @ Leftovers
 - Fire Punch
 - Encore
 - Dynamic Punch
+
+
+=== [gen2ou] Borat Showcase ===
+
+Zapdos @ Leftovers
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+- Thunder
+
+Cloyster @ Leftovers
+- Clamp
+- Explosion
+- Spikes
+- Surf
+
+Snorlax @ Leftovers
+- Curse
+- Double-Edge
+- Rest
+- Sleep Talk
+
+Steelix @ Leftovers
+- Curse
+- Earthquake
+- Explosion
+- Roar
+
+Vaporeon @ Leftovers
+- Growth
+- Hydro Pump
+- Rest
+- Sleep Talk
+
+Exeggutor @ Leftovers
+- Explosion
+- Giga Drain
+- Psychic
+- Sleep Powder
+
+
+=== [gen2ou] Borat #2A ===
+
+Raikou @ Leftovers
+- Reflect
+- Rest
+- Roar
+- Thunderbolt
+
+Marowak @ Thick Club
+- Earthquake
+- Rest
+- Rock Slide
+- Swords Dance
+
+Skarmory @ Leftovers
+- Curse
+- Drill Peck
+- Rest
+- Whirlwind
+
+Snorlax @ Leftovers
+- Belly Drum
+- Body Slam
+- Earthquake
+- Rest
+
+Suicune @ Leftovers
+- Ice Beam
+- Rest
+- Sleep Talk
+- Surf
+
+Miltank @ Leftovers
+- Body Slam
+- Growl
+- Heal Bell
+- Milk Drink
+
+
+=== [gen2ou] Borat #2B ===
+
+Tyranitar @ Leftovers
+- Crunch
+- Dynamicpunch
+- Pursuit
+- Thunderbolt
+
+Marowak @ Thick Club
+- Earthquake
+- Rest
+- Rock Slide
+- Swords Dance
+
+Skarmory @ (No Item)
+- Drill Peck
+- Rest
+- Thief
+- Whirlwind
+
+Snorlax @ Leftovers
+- Belly Drum
+- Body Slam
+- Curse
+- Rest
+
+Starmie @ Leftovers
+- Psychic
+- Rapid Spin
+- Recover
+- Surf
+
+Miltank @ Leftovers
+- Body Slam
+- Growl
+- Heal Bell
+- Milk Drink
+
+
+=== [gen2ou] Pokemon Professor (Pursuit Trapping Curselax) ===
+
+Cloyster @ Leftovers
+- Explosion
+- Spikes
+- Surf
+- Toxic
+
+Houndoom @ Leftovers
+- Crunch
+- Fire Blast
+- Pursuit
+- Sleep Talk
+
+Misdreavus @ Leftovers
+- Mean Look
+- Pain Split
+- Perish Song
+- Protect
+
+Skarmory @ Leftovers
+- Drill Peck
+- Rest
+- Toxic
+- Whirlwind
+
+Snorlax @ Leftovers
+- Curse
+- Double-Edge
+- Earthquake
+- Rest
+
+Starmie @ Leftovers
+- Rapid Spin
+- Recover
+- Surf
+- Reflect
+
+
+=== [gen2ou] goofball (Smeargle?!) ===
+
+Zapdos @ Leftovers
+- Drill Peck
+- Rest
+- Sleep Talk
+- Thunder
+
+Marowak @ Leftovers
+- Earthquake
+- Rest
+- Rock Slide
+- Sleep Talk
+
+Miltank @ Leftovers
+- Body Slam
+- Growl
+- Heal Bell
+- Milk Drink
+
+Rhydon @ Leftovers
+- Curse
+- Earthquake
+- Roar
+- Rock Slide
+
+Slowbro @ Leftovers
+- Psychic
+- Rest
+- Surf
+- Thunder Wave
+
+Smeargle @ Leftovers
+- Encore
+- Roar
+- Spikes
+- Spore
+
+
+=== [gen2ou] Borat (GSC Offense) ===
+
+Nidoking @ Leftovers
+- Earthquake
+- Ice Beam
+- Lovely Kiss
+- Thunder
+
+Dragonite @ Leftovers
+- Dynamic Punch
+- Ice Beam
+- Hidden Power [Flying]
+- Thunder
+
+Machamp @ Leftovers
+- Cross Chop
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+
+Marowak @ Leftovers
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+- Swords Dance
+
+Snorlax @ Leftovers
+- Double-Edge
+- Earthquake
+- Fire Blast
+- Self-Destruct
+
+Tyranitar @ Leftovers
+- Crunch
+- Dynamic Punch
+- Rock Slide
+- Surf
+
+
+=== [gen2ou] Borat (TurboDrumming) ===
+
+Nidoking @ Leftovers
+- Earthquake
+- Fire Blast
+- Ice Beam
+- Lovely Kiss
+
+Heracross @ Leftovers
+- Megahorn
+- Rest
+- Seismic Toss
+- Sleep Talk
+
+Raikou @ Leftovers
+- Crunch
+- Rest
+- Sleep Talk
+- Roar
+- Thunder
+
+Skarmory @ Leftovers
+- Drill Peck
+- Rest
+- Curse
+- Whirlwind
+
+Snorlax @ Leftovers
+- Belly Drum
+- Double-Edge
+- Earthquake
+- Rest
+
+Starmie @ Leftovers
+- Rapid Spin
+- Recover
+- Reflect
+- Surf
+
+
+=== [gen2ou] Borat (BellyLax & BellyFable) ===
+
+Nidoking @ Leftovers
+- Earthquake
+- Fire Blast
+- Ice Beam
+- Lovely Kiss
+
+Clefable @ Leftovers
+- Belly Drum
+- Encore
+- Moonlight
+- Return
+
+Snorlax @ Leftovers
+- Belly Drum
+- Double-Edge
+- Earthquake
+- Rest
+
+Starmie @ Leftovers
+- Rapid Spin
+- Recover
+- Reflect
+- Surf
+
+Tyranitar @ Leftovers
+- Crunch
+- Pursuit
+- Roar
+- Rock Slide
+
+Zapdos @ Leftovers
+- Drill Peck
+- Rest
+- Sleep Talk
+- Thunder
+
+
+=== [gen2ou] Borat (BellyLax & Growtheon) ===
+
+Gengar @ Leftovers
+- Destiny Bond
+- Explosion
+- Ice Punch
+- Thunderbolt
+
+Dragonite @ Leftovers
+- Dynamic Punch
+- Hidden Power [Flying]
+- Ice Beam
+- Thunder
+
+Exeggutor @ Leftovers
+- Explosion
+- Giga Drain
+- Psychic
+- Sleep Powder
+
+Snorlax @ Leftovers
+- Belly Drum
+- Double-Edge
+- Earthquake
+- Rest
+
+Steelix @ Leftovers
+- Curse
+- Earthquake
+- Explosion
+- Roar
+
+Vaporeon @ Leftovers
+- Acid Armor
+- Growth
+- Rest
+- Surf
+
+
+=== [gen2ou] havoc (Toxic + Spikes + Roar) ===
+
+Alakazam @ Leftovers
+- Fire Punch
+- Psychic
+- Recover
+- Toxic
+
+Cloyster @ Leftovers
+- Rapid Spin
+- Spikes
+- Surf
+- Toxic
+- Explosion
+
+Nidoking @ Leftovers
+- Earthquake
+- Ice Beam
+- Roar
+- Thunderbolt
+
+Steelix @ Leftovers
+- Earthquake
+- Explosion
+- Roar
+- Screech
+
+Suicune @ Leftovers
+- Rest
+- Roar
+- Surf
+- Toxic
+
+Zapdos @ Leftovers
+- Drill Peck
+- Rest
+- Sleep Talk
+- Thunderbolt
+
+
+=== [gen2ou] FM (No Snorlax) ===
+
+Dragonite @ Leftovers
+- Ice Beam
+- Reflect
+- Rest
+- Thunder
+
+Gengar @ Leftovers
+- Destiny Bond
+- Fire Punch
+- Hypnosis
+- Thunderbolt
+
+Heracross @ Leftovers
+- Earthquake
+- Megahorn
+- Rest
+- Sleep Talk
+
+Marowak @ Leftovers
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+- Swords Dance
+
+Umbreon @ Leftovers
+- Charm
+- Pursuit
+- Rest
+- Zap Cannon
+
+Tyranitar @ Leftovers
+- Crunch
+- Flamethrower
+- Rest
+- Rock Slide
+
+
+=== [gen2ou] Flameout (Standard) ===
+
+Dragonite @ Leftovers
+- Double-Edge
+- Dynamic Punch
+- Ice Beam
+- Thunder
+
+Heracross @ Leftovers
+- Megahorn
+- Rest
+- Seismic Toss
+- Sleep Talk
+
+Miltank @ Leftovers
+- Body Slam
+- Growl
+- Heal Bell
+- Milk Drink
+
+Raikou @ Leftovers
+- Crunch
+- Reflect
+- Rest
+- Thunderbolt
+
+Snorlax @ Leftovers
+- Belly Drum
+- Double-Edge
+- Earthquake
+- Rest
+
+Suicune @ Leftovers
+- Ice Beam
+- Rest
+- Roar
+- Surf
+
+
+=== [gen2ou] VIL (Explosion-heavy) ===
+
+Cloyster @ Leftovers
+- Clamp
+- Explosion
+- Ice Beam
+- Spikes
+
+Exeggutor @ Leftovers
+- Leech Seed
+- Psychic
+- Sleep Powder
+- Substitute
+
+Gengar @ Leftovers
+- Explosion
+- Ice Punch
+- Mean Look
+- Thunderbolt
+
+Steelix @ Leftovers
+- Curse
+- Earthquake
+- Explosion
+- Roar
+
+Suicune @ Leftovers
+- Rest
+- Roar
+- Surf
+- Toxic
+
+Zapdos @ Leftovers
+- Drill Peck
+- Rest
+- Sleep Talk
+- Thunder
+
+

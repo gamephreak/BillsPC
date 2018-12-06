@@ -1583,6 +1583,7 @@ Chansey
 - Thunder Wave
 - Thunderbolt
 
+
 === [gen1ou] Disaster Area (Mega Kick Lax + Counter Chansey) ===
 
 Jynx
@@ -1776,3 +1777,243 @@ Chansey
 - Ice Beam
 - Thunderbolt
 - Soft-Boiled
+
+
+=== [gen1ou] MoP (Agility Dragonite) ===
+
+Hypno
+- T-Wave
+- Hypnosis
+- Psychic
+- Rest
+
+Dragonite
+- Agility
+- Blizzard
+- Hyper Beam
+- Wrap
+
+Exeggutor
+- Explosion
+- Psychic
+- Sleep Powder
+- Double-Edge
+
+Rhydon
+- Body Slam
+- Earthquake
+- Rock Slide
+- Substitute
+
+Starmie
+- Blizzard
+- Surf
+- Thunder Wave
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Hyper Beam
+- Earthquake
+
+
+=== [gen1ou] 0mastar (Original) ===
+
+Jynx
+- Blizzard
+- Counter
+- Lovely Kiss
+- Psychic
+
+Kingler
+- Body Slam
+- Crabhammer
+- Hyper Beam
+- Swords Dance
+
+Persian
+- Bubblebeam
+- Hyper Beam
+- Slash
+- Screech / Thunder
+
+Chansey
+- Counter
+- Ice Beam
+- Softboiled
+- Thunderbolt
+
+Rhydon
+- Body Slam
+- Earthquake
+- Rock Slide
+- Substitute
+
+Alakazam
+- Counter
+- Psychic
+- Recover
+- Thunder Wave
+
+
+=== [gen1ou] Syberia (Standard) ===
+
+Gengar
+- Explosion
+- Hypnosis
+- Mega Drain
+- Thunderbolt
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Exeggutor
+- Explosion
+- Psychic
+- Sleep Powder
+- Stun Spore
+
+Golem
+- Body Slam
+- Earthquake
+- Explosion
+- Rock Slide
+
+Starmie
+- Blizzard
+- Recover
+- Thunder Wave
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+
+=== [gen1ou] Giga Punch (Cloyster) ===
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Chansey
+- Ice Beam
+- Sing
+- Softboiled
+- Thunder Wave
+
+Cloyster
+- Blizzard
+- Clamp
+- Explosion
+- Rest
+
+Exeggutor
+- Explosion
+- Mega Drain
+- Psychic
+- Sleep Powder
+
+or Victreebel
+- Razor Leaf
+- Sleep Powder
+- Stun Spore
+- Wrap
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+
+=== [gen1ou] Jackal (Starmie strongh) ===
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Chansey
+- Ice Beam
+- Softboiled
+- Thunder Wave
+- Thunderbolt
+
+Exeggutor
+- Explosion
+- Mega Drain
+- Psychic
+- Sleep Powder
+
+Golem
+- Body Slam
+- Earthquake
+- Explosion
+- Rock Slid
+e
+Starmie
+- Blizzard
+- Recover
+- Surf
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+
+=== [gen1ou] kd8 otome (Double Electric) ===
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Exeggutor
+- Explosion
+- Pschic
+- Mega Drain
+- Sleep Powder
+
+Jolteon
+- Double-Kick
+- Agility
+- Thunder Wave
+- Thunderbolt
+
+Snorlax
+- Body Slam
+- Earthquake
+- Self Destruct
+- Surf
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Zapdos
+- Drill Peck
+- Thunder Wave
+- Thunderbolt
+- Agility
