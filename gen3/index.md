@@ -7,7 +7,7 @@
 [5]: https://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/#post-7546019
 [6]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4310358
 [7]: https://www.smogon.com/forums/threads/querencia.3521102/
-[8]: https://www.smogon.com/forums/threads/querencia.3521102/
+[8]: https://www.smogon.com/forums/threads/komm-s%C3%BC%C3%9Fer-tod-a-guide-to-venupert.3611254/#post-7458722
 [9]: https://www.smogon.com/forums/threads/ozymandias.3533733/
 [10]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4310382
 [11]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-2#post-4314556
@@ -21,4 +21,6 @@
 [19]: https://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/#post-7762386
 [20]: https://www.smogon.com/forums/threads/team-dump.3576354/#post-6881510
 [21]: https://www.smogon.com/forums/threads/adv-ou-team-dump.3584528/#post-7029705
-
+[22]: https://www.smogon.com/smog/issue24/featured_rmt_adv
+[23]: https://www.smogon.com/forums/threads/fuck-this.3610466/
+[24]: https://www.smogon.com/forums/threads/steelwork.3609872/#post-7437357
