@@ -1,4 +1,4 @@
-=== [gen1ou] marcoasd 2014 ===
+=== [gen1ou] marcoasd (2014) ===
 
 Gengar
 - Hypnosis
@@ -37,7 +37,46 @@ Lapras
 - Confuse Ray
 
 
-=== [gen1ou] Isa Standard ===
+=== [gen1ou] marcoasd (Rhydon) ===
+
+Starmie 
+- Blizzard 
+- Psychic 
+- Thunder Wave 
+- Recover 
+
+Rhydon 
+- Earthquake 
+- Rock Slide 
+- Body Slam 
+- Substitute 
+
+Chansey 
+- Seismic Toss 
+- Reflect 
+- Thunder Wave 
+- Soft-Boiled 
+
+Exeggutor 
+- Sleep Powder 
+- Stun Spore 
+- Psychic 
+- Explosion 
+
+Snorlax 
+- Body Slam 
+- Self-Destruct 
+- Reflect 
+- Rest 
+
+Tauros 
+- Body Slam 
+- Fire Blast 
+- Hyper Beam 
+- Blizzard
+
+
+=== [gen1ou] Isa (Standard) ===
 
 Alakazam
 - Psychic
@@ -76,7 +115,46 @@ Rhydon
 - Substitute
 
 
-=== [gen1ou] GGFan 2002 (TOS) ===
+=== [gen1ou] Isa (COOKIE) ===
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Recover
+- Seismic Toss
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Earthquake
+- Blizzard
+
+Kingler
+- Body Slam
+- Hyper Beam
+- Crabhammer
+- Swords Dance
+
+Chansey
+- Ice Beam
+- Thunderbolt
+- Soft-Boiled
+- Thunder Wave
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Explosion
+- Psychic
+
+Golem
+- Earthquake
+- Rock Slide
+- Substitute
+- Explosion
+
+
+=== [gen1ou] GGFan (2002) ===
 
 Starmie
 - Blizzard
@@ -114,7 +192,7 @@ Slowbro
 - Thunder Wave
 - Rest
 
-=== [gen1ou] GGFan 2003 (Big 4) ===
+=== [gen1ou] GGFan (2003) ===
 
 Starmie
 - Blizzard
@@ -153,7 +231,7 @@ Alakazam
 - Recover
 
 
-=== [gen1ou] GGFan 2006 ===
+=== [gen1ou] GGFan (2006) ===
 
 Jynx
 - Lovely Kiss
@@ -186,7 +264,7 @@ Exeggutor
 - Stun Spore
 
 
-=== [gen1ou] GGFan 2007 ===
+=== [gen1ou] GGFan (2007) ===
 
 Jynx
 - Lovely Kiss
@@ -225,7 +303,7 @@ Alakazam
 - Reflect
 
 
-=== [gen1ou] GGFan 2011 ===
+=== [gen1ou] GGFan (2011) ===
 
 Starmie
 - Blizzard
@@ -263,7 +341,7 @@ Snorlax
 - Body Slam
 - Rest
 
-=== [gen1ou] GGFan 2012 ===
+=== [gen1ou] GGFan (2012) ===
 
 Starmie
 - Blizzard
@@ -302,7 +380,7 @@ Clefable
 - Hyper Beam
 
 
-=== [gen1ou] GGFan 2013 ===
+=== [gen1ou] GGFan (2013) ===
 
 Starmie
 - Blizzard
@@ -341,7 +419,7 @@ Alakazam
 - Recover
 
 
-=== [gen1ou] RBY ===
+=== [gen1ou] gorgie. (RBY) ===
 
 Alakazam
 - Psychic
@@ -380,7 +458,7 @@ Tauros
 - Hyper Beam
 
 
-=== [gen1ou] Double Elec with Tauros > Zap ===
+=== [gen1ou] gorgie. (Double Elec with Tauros > Zap) ===
 
 Starmie
 - Psychic
@@ -419,7 +497,7 @@ Alakazam
 - Thunder Wave
 
 
-=== [gen1ou] MASTERZAP ===
+=== [gen1ou] gorgie. (MASTERZAP) ===
 
 Alakazam
 - Psychic
@@ -458,7 +536,7 @@ Tauros
 - Hyper Beam
 
 
-=== [gen1ou] AmnesiaSNORLAX ===
+=== [gen1ou] gorgie. (AmnesiaSNORLAX) ===
 
 Starmie
 - Blizzard
@@ -497,7 +575,7 @@ Alakazam
 - Seismic Toss
 
 
-=== [gen1ou] BETSY STAR ===
+=== [gen1ou] gorgie. (BETSY STAR) ===
 
 Starmie
 - Recover
@@ -536,7 +614,7 @@ Tauros
 - Hyper Beam
 
 
-=== [gen1ou] JYNX, MAN ===
+=== [gen1ou] gorgie. (JYNX, MAN) ===
 
 Jynx
 - Lovely Kiss
@@ -653,7 +731,7 @@ Alakazam
 - Thunder Wave
 
 
-=== [gen1ou] Double Electric ===
+=== [gen1ou] gorgie. (Double Electric) ===
 
 Starmie
 - Psychic
@@ -692,7 +770,7 @@ Alakazam
 - Thunder Wave
 
 
-=== [gen1ou] NEW_META ===
+=== [gen1ou] gorgie. (NEW_META) ===
 
 Starmie
 - Ice Beam
@@ -769,7 +847,7 @@ Exeggutor
 - Sleep Powder
 - Explosion
 
-=== [gen1ou] CounterLax + Golem ===
+=== [gen1ou] Disaster Area (CounterLax + Golem) ===
 
 Starmie
 - Psychic
@@ -808,7 +886,7 @@ Golem
 - Rock Slide
 
 
-=== [gen1ou] Slowbro + Rhydon ===
+=== [gen1ou] Disaster Area (Slowbro + Rhydon) ===
 
 Gengar
 - Hypnosis
@@ -847,7 +925,7 @@ Chansey
 - Seismic Toss
 
 
-=== [gen1ou] Slowbro + Rhydon w/ Jynx ===
+=== [gen1ou] Disaster Area (Slowbro + Rhydon w/ Jynx) ===
 
 Jynx
 - Psychic
@@ -885,7 +963,7 @@ Alakazam
 - Thunder Wave
 - Recover
 
-=== [gen1ou] Hyper Offense ===
+=== [gen1ou] Disaster Area (Hyper Offense) ===
 
 Jolteon
 - Pin Missile
@@ -923,7 +1001,7 @@ Chansey
 - Thunder Wave
 - Seismic Toss
 
-=== [gen1ou] The Standard? ===
+=== [gen1ou] Disaster Area (The Standard?) ===
 
 Jynx
 - Psychic
@@ -962,7 +1040,7 @@ Chansey
 - Thunderbolt
 
 
-=== [gen1ou] Ladder Team ===
+=== [gen1ou] Disaster Area (Ladder Team) ===
 
 Jolteon
 - Thunderbolt
@@ -1001,7 +1079,7 @@ Starmie
 - Thunder Wave
 
 
-=== [gen1ou] Kingler ===
+=== [gen1ou] Disaster Area (Kingler) ===
 
 Gengar
 - Hypnosis
@@ -1040,7 +1118,7 @@ Kingler
 - Swords Dance
 
 
-=== [gen1ou] Old Standard  ===
+=== [gen1ou] Ortheore (Old Standard)  ===
 
 Alakazam
 - Psychic
@@ -1079,7 +1157,7 @@ Golem
 - Explosion
 
 
-=== [gen1ou] Oddball Wrap ===
+=== [gen1ou] Ortheore (Oddball Wrap) ===
 
 Starmie
 - Blizzard
@@ -1118,7 +1196,7 @@ Victreebel
 - Wrap
 
 
-=== [gen1ou] Double Electric ===
+=== [gen1ou] Oretheore (Double Electric) ===
 
 Alakazam
 - Psychic
@@ -1156,7 +1234,7 @@ Zapdos
 - Thunderbolt
 - Thunder
 
-=== [gen1ou] teal6 ===
+=== [gen1ou] teal6 (I Came, I Saw, I Conquered) ===
 
 Alakazam
 - Psychic
@@ -2017,3 +2095,41 @@ Zapdos
 - Thunder Wave
 - Thunderbolt
 - Agility
+
+=== [gen1ou] shrapn3l (SPL2) ===
+
+Alakazam
+- Seismic Toss
+- Psychic
+- Thunder Wave
+- Recover
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Explosion
+- Psychic
+
+Lapras
+- Blizzard
+- Thunderbolt
+- Body Slam
+- Confuse Ray
+
+Jolteon
+- Thunderbolt
+- Thunder Wave
+- Pin Missile
+- Double Kick
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self Destruct
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Blizzard
+- Earthquake
