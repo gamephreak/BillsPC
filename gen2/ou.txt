@@ -1,4 +1,4 @@
-=== [gen2ou] Modified_Thieving_Bandits ===
+=== [gen2ou] gorgie. (Modified_Thieving_Bandits) ===
 
 Nidoking @ (No Item)
 - Earthquake
@@ -38,7 +38,7 @@ Cloyster @ Leftovers
 - Explosion
 
 
-=== [gen2ou] DRUMKING ===
+=== [gen2ou] gorgie. (DRUMKING) ===
 
 Nidoking @ Leftovers
 - Earthquake
@@ -78,7 +78,7 @@ IVs: 26 Def
 - Thunder Wave
 
 
-=== [gen2ou] SMEARGLE TTRAP ===
+=== [gen2ou] gorgie. (SMEARGLE TTRAP) ===
 
 Raikou @ Leftovers
 - Thunder
@@ -117,7 +117,7 @@ Vaporeon @ Leftovers
 - Growth
 
 
-=== [gen2ou] STALL ===
+=== [gen2ou] gorgie. (STALL) ===
 
 Raikou @ Leftovers
 - Rest
@@ -156,7 +156,7 @@ Snorlax @ Leftovers
 - Rest
 
 
-=== [gen2ou] 3AtkLax_Missy_HERA ===
+=== [gen2ou] gorgie. (3AtkLax_Missy_HERA) ===
 
 Raikou @ Leftovers
 - Thunderbolt
@@ -195,7 +195,7 @@ Heracross @ Leftovers
 - Sleep Talk
 
 
-=== [gen2ou] OPERATIONBOOMELECWALLS ===
+=== [gen2ou] gorgie. (OPERATIONBOOMELECWALLS) ===
 
 Zapdos @ Leftovers
 - Hidden Power [Ice]
@@ -234,7 +234,7 @@ Vaporeon @ Leftovers
 - Surf
 
 
-=== [gen2ou] Playoffs_RaikouSHuffle ===
+=== [gen2ou] gorgie. (Playoffs_RaikouSHuffle) ===
 
 Cloyster @ Leftovers
 IVs: 14 HP / 28 Atk
@@ -274,7 +274,7 @@ Skarmory @ Leftovers
 - Whirlwind
 
 
-=== [gen2ou] GrowthJOLT ===
+=== [gen2ou] gorgie. (GrowthJOLT) ===
 
 Exeggutor @ Leftovers
 - Psychic
@@ -313,7 +313,7 @@ Cloyster @ Leftovers
 - Hidden Power [Electric]
 
 
-=== [gen2ou] BATSHITAERO ===
+=== [gen2ou] gorgie. (BATSHITAERO) ===
 
 Snorlax @ Leftovers
 - Fire Blast
@@ -1073,7 +1073,7 @@ Charizard @ Leftovers
 - Fire Blast
 
 
-=== [gen2ou] Fear #1 ===
+=== [gen2ou] Fear (SPL9#1) ===
 
 Snorlax @ Leftovers
 - Self-Destruct
@@ -1113,7 +1113,7 @@ IVs: 26 Def
 - Sleep Talk
 
 
-=== [gen2ou] Fear #2 ===
+=== [gen2ou] Fear (SPL9#2) ===
 
 Snorlax @ Leftovers
 - Curse
@@ -1961,7 +1961,7 @@ Alakazam @ Leftovers
 - Dynamic Punch
 
 
-=== [gen2ou] Borat Showcase ===
+=== [gen2ou] Borat (Showcase) ===
 
 Zapdos @ Leftovers
 - Hidden Power [Ice]
@@ -2000,7 +2000,7 @@ Exeggutor @ Leftovers
 - Sleep Powder
 
 
-=== [gen2ou] Borat #2A ===
+=== [gen2ou] Borat (Example #2A) ===
 
 Raikou @ Leftovers
 - Reflect
@@ -2039,7 +2039,7 @@ Miltank @ Leftovers
 - Milk Drink
 
 
-=== [gen2ou] Borat #2B ===
+=== [gen2ou] Borat (Example #2B) ===
 
 Tyranitar @ Leftovers
 - Crunch

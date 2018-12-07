@@ -28,7 +28,7 @@
  - [Disaster Area (Hyper Offense)][12]
  - [Disaster Area (The Standard?)][12]
  - [Disaster Area (Ladder Team)][12]
- - [Disaster Area (Kingler)][12] 
+ - [Disaster Area (Kingler)][12]
  - [Ortheore (Old Standard)][12]
  - [Ortheore (Oddball Wrap)][12]
  - [Oretheore (Double Electric)][12]
@@ -56,8 +56,8 @@
  - [kd8 otome (Double Electric)][1]
  - [shrapn3l (SPL2)][2]
 
-[1]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4308072 
-[2]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4308467 
+[1]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4308072
+[2]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4308467
 [3]: https://www.smogon.com/forums/threads/some-more-or-less-creative-stuff-from-spl9.3632041/#post-7747887
 [4]: http://www.pokemonperfect.com/forums/index.php?threads/rhydon-team.4890/
 [5]: https://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/#post-7546019
