@@ -39,40 +39,40 @@ Lapras
 
 === [gen1ou] marcoasd (Rhydon) ===
 
-Starmie 
-- Blizzard 
-- Psychic 
-- Thunder Wave 
-- Recover 
+Starmie
+- Blizzard
+- Psychic
+- Thunder Wave
+- Recover
 
-Rhydon 
-- Earthquake 
-- Rock Slide 
-- Body Slam 
-- Substitute 
+Rhydon
+- Earthquake
+- Rock Slide
+- Body Slam
+- Substitute
 
-Chansey 
-- Seismic Toss 
-- Reflect 
-- Thunder Wave 
-- Soft-Boiled 
+Chansey
+- Seismic Toss
+- Reflect
+- Thunder Wave
+- Soft-Boiled
 
-Exeggutor 
-- Sleep Powder 
-- Stun Spore 
-- Psychic 
-- Explosion 
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
 
-Snorlax 
-- Body Slam 
-- Self-Destruct 
-- Reflect 
-- Rest 
+Snorlax
+- Body Slam
+- Self-Destruct
+- Reflect
+- Rest
 
-Tauros 
-- Body Slam 
-- Fire Blast 
-- Hyper Beam 
+Tauros
+- Body Slam
+- Fire Blast
+- Hyper Beam
 - Blizzard
 
 
@@ -2133,3 +2133,42 @@ Tauros
 - Hyper Beam
 - Blizzard
 - Earthquake
+
+
+=== [gen1ou] Disaster Area (Jynx Lead) ===
+
+Jynx
+- Psychic
+- Lovely Kiss
+- Rest
+- Blizzard
+
+Rhydon
+- Earthquake
+- Rock Slide
+- Body Slam
+- Substitute
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Stun Spore
+
+Chansey
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+- Thunderbolt

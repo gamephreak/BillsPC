@@ -2470,3 +2470,196 @@ Zapdos @ Leftovers
 - Thunder
 
 
+=== [gen2ou] M Dragon (Explosion) ===
+
+Cloyster @ Leftovers
+- Explosion
+- Spikes
+- Surf
+- Ice Beam
+
+Zapdos @ Leftovers
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Exeggutor @ Leftovers
+- Sleep Powder
+- Psychic
+- Giga Drain
+- Explosion
+
+Gengar @ Leftovers
+- Explosion
+- Thunderbolt
+- Ice Punch
+- DynamicPunch
+
+Snorlax @ Leftovers
+- Double-Edge
+- Earthquake
+- Fire Blast
+- Self-Destruct
+
+Steelix @ Leftovers
+- Curse
+- Earthquake
+- Explosion
+- Roar
+
+
+=== [gen2ou] M Dragon (BP) ===
+
+Smeargle @ Leftovers
+- Spore
+- Agility
+- Substitute
+- Baton Pass
+
+Snorlax @ Leftovers
+- Belly Drum
+- Earthquake
+- Lovely Kiss
+- Return
+
+Marowak @ Thick Club
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+- Swords Dance
+
+Machamp @ Leftovers
+- Cross Chop
+- Hidden Power [Bug]
+- Earthquake
+- Rock Slide
+
+Scizor @ Leftovers
+- Agility
+- Swords Dance
+- Hidden Power [Bug]
+- Baton Pass
+
+Jolteon @ Leftovers
+- Agility
+- Baton Pass
+- Hidden Power [Water]
+- Thunderbolt
+
+
+=== [gen2ou] M Dragon (BDlax stall) ===
+
+Raikou @ Leftovers
+- Thunderbolt
+- Reflect
+- Hidden Power [Water]
+- Rest
+
+Skarmory @ Leftovers
+- Curse
+- Drill Peck
+- Rest
+- Whirlwind
+
+Miltank @ Leftovers
+- Growl
+- Body Slam
+- Milk Drink
+- Heal Bell
+
+Snorlax @ Leftovers
+- Belly Drum
+- Return
+- Lovely Kiss
+- Rest
+
+Starmie @ Leftovers
+- Surf
+- Psychic
+- Rapid Spin
+- Recover
+
+Tyranitar @ Leftovers
+- Curse
+- Rock Slide
+- Roar
+- Pursuit
+
+
+=== [gen2ou] M Dragon (Tentacruel) ===
+
+Raikou @ Leftovers
+- Thunderbolt
+- Reflect
+- Roar
+- Rest
+
+Skarmory @ Leftovers
+- Curse
+- Drill Peck
+- Rest
+- Whirlwind
+
+Cloyster @ Leftovers
+- Spikes
+- Toxic
+- Surf
+- Rapid Spin
+
+Snorlax @ Leftovers
+- Frustration
+- Flamethrower
+- Toxic
+- Rest
+
+Tentacruel @ Leftovers
+- Swords Dance
+- Sludge Bomb
+- Hydro Pump
+- Substitute
+
+Tyranitar @ Leftovers
+- Curse
+- Rock Slide
+- Pursuit/Rest
+- Roar
+
+
+=== [gen2ou] Conflict & MoP (SPL2) ===
+
+Gengar @ Leftovers
+- Explosion
+- Fire Punch/Ice Punch
+- Mean Look
+- Thunderbolt
+
+Snorlax @ Leftovers
+- Double-Edge
+- Fire Blast
+- Rest
+- Self-Destruct
+
+Exeggutor @ Leftovers
+- Explosion
+- Hidden Power [Fire]
+- Psychic
+- Sleep Powder
+
+Cloyster @ Leftovers
+- Explosion
+- Surf
+- Icy Wind
+- Spikes
+
+Tyranitar @ Leftovers
+- Curse
+- Pursuit
+- Roar
+- Rock Slide
+
+Espeon @ Leftovers
+- Growth
+- Hidden Power [Fire]
+- Morning Sun
+- Psychic

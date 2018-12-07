@@ -55,6 +55,7 @@
  - [Jackal (Starmie strongh)][1]
  - [kd8 otome (Double Electric)][1]
  - [shrapn3l (SPL2)][2]
+ - [Disaster Area (Jynx Lead)][14]
 
 [1]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4308072
 [2]: https://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/#post-4308467
@@ -69,6 +70,7 @@
 [11]: http://www.pokemonperfect.com/forums/index.php?threads/cookie.3055/
 [12]: http://www.pokemonperfect.com/forums/index.php?threads/sample-teams-thread.3344/
 [13]: https://www.smogon.com/forums/threads/i-came-i-saw-i-conquered.3610139/#post-7441348
+[14]: https://www.smogon.com/forums/threads/roa-sample-teams-thread.3522617/#post-5871678
 
 [101]: http://archive.is/ct8H0
 [102]: http://archive.is/pzLvW
@@ -83,3 +85,4 @@
 [111]: http://archive.is/GqfpU
 [112]: http://archive.is/GqfpU
 [113]: http://archive.is/yOTgH
+[114]: http://archive.is/47jk4
