@@ -22,6 +22,13 @@
 - [tobi10 (Six Paths of Pain)][24]
 - [BKC (Bleed/Hybrid Theory)][12]
 
+- [SOMALIA (Band Nape Madness)][6]
+- [august (Obi Stall Revamp)][6]
+- [Jirachee (Eagle)][6]
+- [kokoloko (Wish Upon a Fish)][6]
+- [EdwardElric15 (Bulky Scizor and Friends)][6]
+- [MDragon (Sand Semi-Stall)][6]
+
 - [Foggi (Dugtrio + Raikou Toxic Spikes)][7]
 - [Foggi (Specs Kingdra + Lucario Bulky Offense)][7]
 - [Foggi (Dragmag + Mamoswine Bulky Offense)][7]
