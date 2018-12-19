@@ -25,3 +25,4 @@
 [23]: https://www.smogon.com/forums/threads/fuck-this.3610466/
 [24]: https://www.smogon.com/forums/threads/steelwork.3609872/#post-7437357
 [25]: https://www.smogon.com/forums/threads/roa-sample-teams-thread-v2.3549991/page-3#post-7139547
+[26]: https://www.smogon.com/forums/threads/summer-fornever.3479234/

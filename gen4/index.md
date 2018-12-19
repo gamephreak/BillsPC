@@ -42,7 +42,7 @@
 - [Foggi (CB Scizor + Loom Bulky Offense)][7]
 - [Foggi (Lead Rade + LO Flygon Offense)][7]
 
-[1]: https://www.smogon.com/forums/threads/team-strongbots-ou-offense.59985/ 
+[1]: https://www.smogon.com/forums/threads/team-strongbots-ou-offense.59985/
 [1B]:https://www.smogon.com/smog/issue4/featured_rmt_ou
 [2]: https://www.smogon.com/smog/issue7/featured_rmt_ou
 [3]: https://www.smogon.com/smog/issue10/featured_rmt_suspect
@@ -70,6 +70,7 @@
 [23]: https://www.smogon.com/forums/threads/bells-of-destruction.83150/
 [24]: https://www.smogon.com/forums/threads/six-paths-of-pain.3464138/
 [25]: https://www.smogon.com/forums/threads/generation-iv-rmt-archive-index.76508/
+[26]: https://twitter.com/smogonu/status/1039528994247303170
 
 [101]:
 [101B]:
@@ -99,4 +100,8 @@
 [123]:
 [124]:
 [125]:
+[126]:
 
+
+
+TODO: https://www.smogon.com/forums/threads/rmt-archive-4th-gen-ou-nominations.76507/#post-2882753
