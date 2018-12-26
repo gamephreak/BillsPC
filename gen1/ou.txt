@@ -1,16 +1,34 @@
-=== [gen1ou] marcoasd (2014) ===
+=== [gen1ou] Giga Punch (Cloyster) ===
 
-Gengar
-- Hypnosis
-- Thunderbolt
-- Night Shade
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Cloyster
+- Blizzard
+- Clamp
 - Explosion
+- Rest
+
+Exeggutor
+- Explosion
+- Mega Drain
+- Psychic
+- Sleep Powder
 
 Chansey
 - Ice Beam
-- Thunderbolt
-- Thunder Wave
+- Sing
 - Soft-Boiled
+- Thunder Wave
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
 
 Snorlax
 - Body Slam
@@ -18,62 +36,44 @@ Snorlax
 - Hyper Beam
 - Self-Destruct
 
-Exeggutor
-- Sleep Powder
-- Stun Spore
+
+=== [gen1ou] kd8 otome (Double Electric) ===
+
+Alakazam
 - Psychic
-- Explosion
-
-Tauros
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Blizzard
-
-Lapras
-- Blizzard
-- Thunderbolt
-- Body Slam
-- Confuse Ray
-
-
-=== [gen1ou] marcoasd (Rhydon) ===
-
-Starmie
-- Blizzard
-- Psychic
-- Thunder Wave
 - Recover
-
-Rhydon
-- Earthquake
-- Rock Slide
-- Body Slam
-- Substitute
-
-Chansey
 - Seismic Toss
-- Reflect
 - Thunder Wave
-- Soft-Boiled
 
 Exeggutor
-- Sleep Powder
-- Stun Spore
-- Psychic
 - Explosion
+- Psychic
+- Mega Drain
+- Sleep Powder
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Jolteon
+- Double Kick
+- Agility
+- Thunder Wave
+- Thunderbolt
 
 Snorlax
 - Body Slam
+- Earthquake
 - Self-Destruct
-- Reflect
-- Rest
+- Surf
 
-Tauros
-- Body Slam
-- Fire Blast
-- Hyper Beam
-- Blizzard
+Zapdos
+- Drill Peck
+- Thunder Wave
+- Thunderbolt
+- Agility
 
 
 === [gen1ou] Isa (Standard) ===
@@ -90,411 +90,29 @@ Exeggutor
 - Sleep Powder
 - Mega Drain
 
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Selfdestruct
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Chansey
-- Ice Beam
-- Softboiled
-- Thunder Wave
-- Thunderbolt
-
 Rhydon
 - Body Slam
 - Earthquake
 - Rock Slide
 - Substitute
 
-
-=== [gen1ou] Isa (COOKIE) ===
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Recover
-- Seismic Toss
-
-Tauros
-- Body Slam
-- Hyper Beam
-- Earthquake
-- Blizzard
-
-Kingler
-- Body Slam
-- Hyper Beam
-- Crabhammer
-- Swords Dance
-
 Chansey
 - Ice Beam
-- Thunderbolt
 - Soft-Boiled
 - Thunder Wave
-
-Exeggutor
-- Sleep Powder
-- Stun Spore
-- Explosion
-- Psychic
-
-Golem
-- Earthquake
-- Rock Slide
-- Substitute
-- Explosion
-
-
-=== [gen1ou] GGFan (2002) ===
-
-Starmie
-- Blizzard
-- Thunderbolt
-- Thunder Wave
-- Recover
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Exeggutor
-- Explosion
-- Psychic
-- Mega Drain
-- Sleep Powder
-
-Golem
-- Explosion
-- Earthquake
-- Rock Slide
-- Body Slam
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Reflect
-- Recover
-
-Slowbro
-- Amnesia
-- Surf
-- Thunder Wave
-- Rest
-
-=== [gen1ou] GGFan (2003) ===
-
-Starmie
-- Blizzard
-- Thunderbolt
-- Thunder Wave
-- Recover
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Selfdestruct
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Chansey
-- Ice Beam
-- Thunderbolt
-- Thunder Wave
-- Softboiled
-
-Exeggutor
-- Explosion
-- Psychic
-- Stun Spore
-- Sleep Powder
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Reflect
-- Recover
-
-
-=== [gen1ou] GGFan (2006) ===
-
-Jynx
-- Lovely Kiss
-- Blizzard
-- Psychic
-- Body Slam
-
-Gengar
-- Confuse Ray
-- Thunderbolt
-- Mega Drain
-- Explosion
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Selfdestruct
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Explosion
-- Stun Spore
-
-
-=== [gen1ou] GGFan (2007) ===
-
-Jynx
-- Lovely Kiss
-- Blizzard
-- Psychic
-- Body Slam
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Selfdestruct
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Explosion
-- Stun Spore
-
-Chansey
-- Ice Beam
-- Thunder Wave
-- Counter
-- Softboiled
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Recover
-- Reflect
-
-
-=== [gen1ou] GGFan (2011) ===
-
-Starmie
-- Blizzard
-- Psychic
-- Thunder Wave
-- Recover
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Clefable
-- Blizzard
-- Body Slam
-- Thunder Wave
-- Hyper Beam
-
-Jolteon
-- Thunderbolt
-- Thunder Wave
-- Pin Missile
-- Double Kick
-
-Nidoqueen
-- Blizzard
-- Body Slam
-- Earthquake
-- Thunderbolt
-
-Snorlax
-- Amnesia
-- Reflect
-- Body Slam
-- Rest
-
-=== [gen1ou] GGFan (2012) ===
-
-Starmie
-- Blizzard
-- Psychic
-- Thunder Wave
-- Recover
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Selfdestruct
-
-Exeggutor
-- Explosion
-- Psychic
-- Sleep Powder
-- Stun Spore
-
-Chansey
-- Ice Beam
-- Thunder Wave
-- Counter
-- Softboiled
-
-Clefable
-- Blizzard
-- Body Slam
-- Thunder Wave
-- Hyper Beam
-
-
-=== [gen1ou] GGFan (2013) ===
-
-Starmie
-- Blizzard
-- Psychic
-- Thunder Wave
-- Recover
-
-Snorlax
-- Body Slam
-- Hyper Beam
-- Earthquake
-- Selfdestruct
-
-Tauros
-- Blizzard
-- Body Slam
-- Hyper Beam
-- Earthquake
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Explosion
-- Hyper Beam
-
-Chansey
-- Ice Beam
-- Thunder Wave
-- Softboiled
-- Light Screen
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Reflect
-- Recover
-
-
-=== [gen1ou] gorgie. (RBY) ===
-
-Alakazam
-- Psychic
-- Recover
-- Thunder Wave
-- Seismic Toss
-
-Jolteon
-- Thunder Wave
-- Thunderbolt
-- Pin Missile
-- Double Kick
-
-Lapras
-- Sing
-- Ice Beam
-- Thunderbolt
-- Confuse Ray
-
-Exeggutor
-- Sleep Powder
-- Double-Edge
-- Psychic
-- Explosion
-
-Persian
-- Slash
-- Bubble Beam
-- Hyper Beam
 - Thunderbolt
 
 Tauros
-- Body Slam
-- Earthquake
 - Blizzard
-- Hyper Beam
-
-
-=== [gen1ou] gorgie. (Double Elec with Tauros > Zap) ===
-
-Starmie
-- Psychic
-- Ice Beam
-- Thunder Wave
-- Recover
-
-Exeggutor
-- Sleep Powder
-- Psychic
-- Explosion
-- Mega Drain
-
-Jolteon
-- Thunder Wave
-- Thunderbolt
-- Double Kick
-- Pin Missile
-
-Tauros
 - Body Slam
 - Earthquake
 - Hyper Beam
-- Blizzard
 
 Snorlax
 - Body Slam
 - Earthquake
 - Hyper Beam
 - Self-Destruct
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
 
 
 === [gen1ou] gorgie. (MASTERZAP) ===
@@ -505,17 +123,29 @@ Alakazam
 - Seismic Toss
 - Thunder Wave
 
-Snorlax
-- Body Slam
-- Counter
-- Surf
-- Self-Destruct
-
 Exeggutor
 - Sleep Powder
 - Psychic
 - Explosion
 - Stun Spore
+
+Chansey
+- Thunderbolt
+- Soft-Boiled
+- Ice Beam
+- Thunder Wave
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Counter
+- Surf
+- Self-Destruct
 
 Zapdos
 - Thunderbolt
@@ -523,376 +153,176 @@ Zapdos
 - Thunder Wave
 - Rest
 
-Chansey
-- Thunderbolt
-- Soft-Boiled
-- Ice Beam
-- Thunder Wave
 
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
+=== [gen1ou] Jackal (Starmie strongh) ===
 
-
-=== [gen1ou] gorgie. (AmnesiaSNORLAX) ===
-
-Starmie
-- Blizzard
-- Thunder Wave
+Alakazam
 - Psychic
 - Recover
+- Seismic Toss
+- Thunder Wave
 
-Tauros
+Golem
 - Body Slam
-- Blizzard
 - Earthquake
-- Hyper Beam
+- Explosion
+- Rock Slide
 
 Exeggutor
-- Explosion
-- Psychic
-- Sleep Powder
-- Stun Spore
-
-Snorlax
-- Amnesia
-- Ice Beam
-- Reflect
-- Rest
-
-Lapras
-- Rest
-- Blizzard
-- Body Slam
-- Thunderbolt
-
-Alakazam
-- Recover
-- Psychic
-- Thunder Wave
-- Seismic Toss
-
-
-=== [gen1ou] gorgie. (BETSY STAR) ===
-
-Starmie
-- Recover
-- Psychic
-- Ice Beam
-- Thunderbolt
-
-Chansey
-- Reflect
-- Ice Beam
-- Soft-Boiled
-- Thunderbolt
-
-Alakazam
-- Thunder Wave
-- Psychic
-- Recover
-- Seismic Toss
-
-Snorlax
-- Body Slam
-- Earthquake
-- Self-Destruct
-- Counter
-
-Slowbro
-- Counter
-- Amnesia
-- Surf
-- Rest
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-
-=== [gen1ou] gorgie. (JYNX, MAN) ===
-
-Jynx
-- Lovely Kiss
-- Psychic
-- Blizzard
-- Mimic
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Explosion
-- Stun Spore
-
-Snorlax
-- Body Slam
-- Blizzard
-- Amnesia
-- Self-Destruct
-
-Tauros
-- Body Slam
-- Earthquake
-- Blizzard
-- Hyper Beam
-
-Lapras
-- Body Slam
-- Blizzard
-- Thunderbolt
-- Confuse Ray
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Recover
-- Seismic Toss
-
-
-=== [gen1ou] WrapitUp ===
-
-Starmie
-- Thunder Wave
-- Psychic
-- Recover
-- Ice Beam
-
-Exeggutor
-- Stun Spore
-- Psychic
-- Sleep Powder
-- Explosion
-
-Snorlax
-- Body Slam
-- Earthquake
-- Self-Destruct
-- Counter
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
-
-Dragonite
-- Wrap
-- Surf
-- Agility
-- Hyper Beam
-
-Tauros
-- Body Slam
-- Earthquake
-- Blizzard
-- Hyper Beam
-
-
-=== [gen1ou] Lord Gengar ===
-
-Jynx
-- Lovely Kiss
-- Psychic
-- Blizzard
-- Mimic
-
-Gengar
-- Hypnosis
-- Psychic
-- Explosion
-- Night Shade
-
-Snorlax
-- Body Slam
-- Counter
-- Earthquake
-- Self-Destruct
-
-Persian
-- Bubble Beam
-- Hyper Beam
-- Slash
-- Screech
-
-Tauros
-- Earthquake
-- Body Slam
-- Blizzard
-- Hyper Beam
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
-
-
-=== [gen1ou] gorgie. (Double Electric) ===
-
-Starmie
-- Psychic
-- Ice Beam
-- Thunder Wave
-- Recover
-
-Exeggutor
-- Sleep Powder
-- Psychic
 - Explosion
 - Mega Drain
+- Psychic
+- Sleep Powder
+
+Chansey
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+- Thunderbolt
+
+Starmie
+- Blizzard
+- Recover
+- Surf
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+
+=== [gen1ou] Typhlito (Amnesia Lax) ===
+
+Alakazam
+- Psychic
+- Recover
+- Thunder Wave
+- Seismic Toss
+
+Exeggutor
+- Sleep Powder
+- Psychic
+- Explosion
+- Egg Bomb
+
+Chansey
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+- Counter
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Earthquake
+- Blizzard
+
+Jolteon
+- Thunderbolt
+- Thunder Wave
+- Pin Missile
+- Double Kick
+
+Snorlax
+- Reflect
+- Amnesia
+- Rest
+- Ice Beam
+
+
+=== [gen1ou] gorgie. (RBY) ===
+
+Alakazam
+- Psychic
+- Recover
+- Thunder Wave
+- Seismic Toss
+
+Persian
+- Slash
+- Bubble Beam
+- Hyper Beam
+- Thunderbolt
+
+Exeggutor
+- Sleep Powder
+- Double-Edge
+- Psychic
+- Explosion
+
+Tauros
+- Body Slam
+- Earthquake
+- Blizzard
+- Hyper Beam
+
+Lapras
+- Sing
+- Ice Beam
+- Thunderbolt
+- Confuse Ray
 
 Jolteon
 - Thunder Wave
 - Thunderbolt
-- Double Kick
 - Pin Missile
+- Double Kick
 
-Zapdos
-- Thunderbolt
-- Drill Peck
-- Thunder Wave
-- Rest
 
-Snorlax
-- Body Slam
-- Earthquake
-- Surf
-- Self-Destruct
+=== [gen1ou] Disaster Area (Reflect Lax + Leech Seed Exeggutor) ===
 
 Alakazam
 - Psychic
-- Recover
 - Seismic Toss
 - Thunder Wave
-
-
-=== [gen1ou] gorgie. (NEW_META) ===
-
-Starmie
-- Ice Beam
-- Thunder Wave
-- Psychic
 - Recover
-
-Slowbro
-- Amnesia
-- Surf
-- Rest
-- Thunder Wave
-
-Zapdos
-- Thunder Wave
-- Thunderbolt
-- Drill Peck
-- Rest
 
 Exeggutor
-- Sleep Powder
-- Mega Drain
+- Leech Seed
+- Rest
 - Psychic
-- Explosion
+- Stun Spore
 
 Chansey
-- Reflect
 - Soft-Boiled
+- Thunder Wave
+- Reflect
 - Seismic Toss
-- Counter
-
-Tauros
-- Body Slam
-- Earthquake
-- Blizzard
-- Hyper Beam
-
-
-=== [gen1ou] Donk_Crystal ===
 
 Jynx
-- Blizzard
+- Psychic
 - Lovely Kiss
-- Psychic
-- Counter
-
-Alakazam
-- Psychic
-- Recover
-- Thunder Wave
-- Seismic Toss
-
-Snorlax
-- Body Slam
-- Earthquake
-- Counter
-- Self-Destruct
-
-Articuno
-- Blizzard
-- Ice Beam
 - Rest
-- Hyper Beam
-
-Nidoking
-- Earthquake
-- Counter
 - Blizzard
-- Body Slam
-
-Exeggutor
-- Psychic
-- Stun Spore
-- Sleep Powder
-- Explosion
-
-=== [gen1ou] Disaster Area (CounterLax + Golem) ===
-
-Starmie
-- Psychic
-- Recover
-- Thunder Wave
-- Blizzard
-
-Snorlax
-- Counter
-- Body Slam
-- Earthquake
-- Self-Destruct
-
-Chansey
-- Thunderbolt
-- Thunder Wave
-- Soft-Boiled
-- Ice Beam
-
-Exeggutor
-- Sleep Powder
-- Stun Spore
-- Psychic
-- Explosion
 
 Tauros
 - Body Slam
+- Blizzard
 - Earthquake
 - Hyper Beam
-- Blizzard
 
-Golem
-- Earthquake
-- Explosion
+Snorlax
 - Body Slam
-- Rock Slide
+- Reflect
+- Earthquake
+- Rest
 
 
-=== [gen1ou] Disaster Area (Slowbro + Rhydon) ===
+=== [gen1ou] Disaster Area (Standard) ===
 
-Gengar
-- Hypnosis
-- Night Shade
-- Thunderbolt
-- Explosion
+Alakazam
+- Psychic
+- Seismic Toss
+- Thunder Wave
+- Recover
+
+Exeggutor
+- Leech Seed
+- Rest
+- Psychic
+- Stun Spore
 
 Rhydon
 - Earthquake
@@ -900,300 +330,23 @@ Rhydon
 - Body Slam
 - Substitute
 
-Slowbro
-- Amnesia
-- Rest
-- Thunder Wave
-- Psychic
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Self-Destruct
-
-Tauros
-- Body Slam
-- Blizzard
-- Earthquake
-- Hyper Beam
-
 Chansey
 - Soft-Boiled
 - Thunder Wave
 - Sing
 - Seismic Toss
 
-
-=== [gen1ou] Disaster Area (Slowbro + Rhydon w/ Jynx) ===
-
-Jynx
-- Psychic
-- Lovely Kiss
-- Counter
-- Blizzard
-
-Golem
-- Body Slam
-- Earthquake
-- Explosion
-- Rock Slide
-
-Slowbro
-- Amnesia
-- Rest
-- Thunder Wave
-- Psychic
-
 Tauros
 - Body Slam
 - Blizzard
 - Earthquake
 - Hyper Beam
 
-Snorlax
-- Body Slam
-- Earthquake
-- Counter
-- Self-Destruct
-
-Alakazam
-- Psychic
-- Reflect
-- Thunder Wave
-- Recover
-
-=== [gen1ou] Disaster Area (Hyper Offense) ===
-
-Jolteon
-- Pin Missile
-- Thunderbolt
-- Thunder Wave
-- Double Kick
-
-Snorlax
-- Body Slam
-- Earthquake
-- Reflect
-- Rest
-
-Starmie
-- Thunderbolt
-- Psychic
-- Recover
-- Thunder Wave
-
-Alakazam
-- Psychic
-- Seismic Toss
-- Thunder Wave
-- Recover
-
-Tauros
-- Body Slam
+Lapras
 - Blizzard
-- Earthquake
-- Hyper Beam
-
-Chansey
-- Soft-Boiled
-- Sing
-- Thunder Wave
-- Seismic Toss
-
-=== [gen1ou] Disaster Area (The Standard?) ===
-
-Jynx
-- Psychic
-- Lovely Kiss
-- Rest
-- Blizzard
-
-Zapdos
+- Body Slam
 - Thunderbolt
-- Light Screen
-- Drill Peck
-- Thunder Wave
-
-Tauros
-- Body Slam
-- Blizzard
-- Earthquake
-- Hyper Beam
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Self-Destruct
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Explosion
-- Stun Spore
-
-Chansey
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-- Thunderbolt
-
-
-=== [gen1ou] Disaster Area (Ladder Team) ===
-
-Jolteon
-- Thunderbolt
-- Pin Missile
-- Thunder Wave
-- Double Kick
-
-Tauros
-- Body Slam
-- Blizzard
-- Earthquake
-- Hyper Beam
-
-Chansey
-- Ice Beam
-- Counter
-- Thunder Wave
-- Soft-Boiled
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Hyper Beam
-- Explosion
-
-Snorlax
-- Body Slam
-- Counter
-- Earthquake
-- Self-Destruct
-
-Starmie
-- Recover
-- Psychic
-- Blizzard
-- Thunder Wave
-
-
-=== [gen1ou] Disaster Area (Kingler) ===
-
-Gengar
-- Hypnosis
-- Night Shade
-- Thunderbolt
-- Explosion
-
-Exeggutor
-- Sleep Powder
-- Stun Spore
-- Psychic
-- Explosion
-
-Zapdos
-- Drill Peck
-- Thunderbolt
-- Thunder Wave
-- Light Screen
-
-Chansey
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-- Thunderbolt
-
-Tauros
-- Body Slam
-- Blizzard
-- Earthquake
-- Hyper Beam
-
-Kingler
-- Crabhammer
-- Body Slam
-- Hyper Beam
-- Swords Dance
-
-
-=== [gen1ou] Ortheore (Old Standard)  ===
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Seismic Toss
-- Recover
-
-Snorlax
-- Body Slam
-- Earthquake
-- Self-Destruct
-- Hyper Beam
-
-Chansey
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-- Thunderbolt
-
-Exeggutor
-- Sleep Powder
-- Psychic
-- Stun Spore
-- Explosion
-
-Tauros
-- Body Slam
-- Hyper Beam
-- Blizzard
-- Earthquake
-
-Golem
-- Earthquake
-- Rock Slide
-- Body Slam
-- Explosion
-
-
-=== [gen1ou] Ortheore (Oddball Wrap) ===
-
-Starmie
-- Blizzard
-- Psychic
-- Thunder Wave
-- Recover
-
-Jolteon
-- Double Kick
-- Pin Missile
-- Thunderbolt
-- Thunder Wave
-
-Golem
-- Body Slam
-- Earthquake
-- Rock Slide
-- Explosion
-
-Alakazam
-- Psychic
-- Thunder Wave
-- Reflect
-- Recover
-
-Cloyster
-- Clamp
-- Blizzard
-- Hyper Beam
-- Explosion
-
-Victreebel
-- Razor Leaf
-- Stun Spore
-- Sleep Powder
-- Wrap
+- Confuse Ray
 
 
 === [gen1ou] Oretheore (Double Electric) ===
@@ -1210,11 +363,11 @@ Exeggutor
 - Stun Spore
 - Explosion
 
-Snorlax
+Tauros
+- Blizzard
 - Body Slam
 - Earthquake
 - Hyper Beam
-- Self-Destruct
 
 Jolteon
 - Double Kick
@@ -1222,17 +375,57 @@ Jolteon
 - Thunderbolt
 - Thunder Wave
 
-Tauros
-- Blizzard
+Snorlax
 - Body Slam
 - Earthquake
 - Hyper Beam
+- Self-Destruct
 
 Zapdos
 - Drill Peck
 - Thunder Wave
 - Thunderbolt
 - Thunder
+
+
+=== [gen1ou] Isa (COOKIE) ===
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Recover
+- Seismic Toss
+
+Golem
+- Earthquake
+- Rock Slide
+- Substitute
+- Explosion
+
+Kingler
+- Body Slam
+- Hyper Beam
+- Crabhammer
+- Swords Dance
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Explosion
+- Psychic
+
+Chansey
+- Ice Beam
+- Thunderbolt
+- Soft-Boiled
+- Thunder Wave
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Earthquake
+- Blizzard
+
 
 === [gen1ou] teal6 (I Came, I Saw, I Conquered) ===
 
@@ -1248,11 +441,11 @@ Exeggutor
 - Hyper Beam
 - Psychic
 
-Snorlax
-- Self-Destruct
-- Body Slam
-- Hyper Beam
-- Surf
+Chansey
+- Thunder Wave
+- Reflect
+- Seismic Toss
+- Soft-Boiled
 
 Tauros
 - Body Slam
@@ -1260,11 +453,11 @@ Tauros
 - Earthquake
 - Blizzard
 
-Chansey
-- Thunder Wave
-- Reflect
-- Seismic Toss
-- Soft-Boiled
+Snorlax
+- Self-Destruct
+- Body Slam
+- Hyper Beam
+- Surf
 
 Zapdos
 - Agility
@@ -1273,43 +466,82 @@ Zapdos
 - Thunder Wave
 
 
-=== [gen1ou] TheIdiotNinja (Jynx + Reflect Slowbro) ===
+=== [gen1ou] Ortheore (Old Standard) ===
 
-Jynx
+Alakazam
 - Psychic
-- Lovely Kiss
-- Rest
-- Blizzard
+- Thunder Wave
+- Seismic Toss
+- Recover
+
+Golem
+- Earthquake
+- Rock Slide
+- Body Slam
+- Explosion
+
+Exeggutor
+- Sleep Powder
+- Psychic
+- Stun Spore
+- Explosion
+
+Chansey
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+- Thunderbolt
 
 Tauros
 - Body Slam
 - Hyper Beam
-- Earthquake
 - Blizzard
+- Earthquake
 
 Snorlax
 - Body Slam
+- Earthquake
 - Self-Destruct
-- Reflect
-- Rest
+- Hyper Beam
+
+
+=== [gen1ou] shrapn3l (SPL2) ===
+
+Alakazam
+- Seismic Toss
+- Psychic
+- Thunder Wave
+- Recover
 
 Exeggutor
-- Psychic
 - Sleep Powder
-- Explosion
 - Stun Spore
+- Explosion
+- Psychic
 
-Chansey
-- Seismic Toss
-- Soft-Boiled
+Tauros
+- Body Slam
+- Hyper Beam
+- Blizzard
+- Earthquake
+
+Lapras
+- Blizzard
+- Thunderbolt
+- Body Slam
+- Confuse Ray
+
+Jolteon
+- Thunderbolt
 - Thunder Wave
-- Reflect
+- Pin Missile
+- Double Kick
 
-Slowbro
-- Amnesia
-- Surf
-- Rest
-- Reflect
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
 
 
 === [gen1ou] TheIdiotNinja (Victreebel + Cloyster) ===
@@ -1320,17 +552,17 @@ Alakazam
 - Psychic
 - Seismic Toss
 
-Cloyster
-- Clamp
-- Blizzard
-- Rest
-- Explosion
-
 Victreebel
 - Sleep Powder
 - Razor Leaf
 - Wrap
 - Swords Dance
+
+Cloyster
+- Clamp
+- Blizzard
+- Rest
+- Explosion
 
 Chansey
 - Ice Beam
@@ -1338,17 +570,56 @@ Chansey
 - Soft-Boiled
 - Thunder Wave
 
+Tauros
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Blizzard
+
 Snorlax
 - Body Slam
 - Reflect
 - Hyper Beam
 - Rest
 
+
+=== [gen1ou] Fleggumfl (Bolt-Beam Chansey) ===
+
+Alakazam
+- Thunder Wave
+- Seismic Toss
+- Psychic
+- Recover
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Hyper Beam
+- Explosion
+
+Chansey
+- Thunder Wave
+- Ice Beam
+- Thunderbolt
+- Soft-Boiled
+
 Tauros
+- Body Slam
+- Hyper Beam
+- Blizzard
+- Earthquake
+
+Snorlax
+- Self-Destruct
 - Body Slam
 - Earthquake
 - Hyper Beam
-- Blizzard
+
+Zapdos
+- Thunder
+- Thunderbolt
+- Drill Peck
+- Thunder Wave
 
 
 === [gen1ou] TheIdiotNinja (Mid Gengar + Starmie) ===
@@ -1359,29 +630,17 @@ Alakazam
 - Psychic
 - Recover
 
-Chansey
-- Thunder Wave
-- Ice Beam
-- Thunderbolt
-- Soft-Boiled
-
 Gengar
 - Hypnosis
 - Thunderbolt
 - Seismic Toss
 - Explosion
 
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Self-Destruct
-
-Tauros
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Blizzard
+Chansey
+- Thunder Wave
+- Ice Beam
+- Thunderbolt
+- Soft-Boiled
 
 Starmie
 - Thunder Wave
@@ -1389,26 +648,11 @@ Starmie
 - Psychic
 - Recover
 
-
-=== [gen1ou] TheIdiotNinja (Quadruple Boom) ===
-
-Gengar
-- Hypnosis
-- Thunderbolt
-- Night Shade
-- Explosion
-
-Chansey
-- Thunderbolt
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-
-Cloyster
-- Clamp
-- Blizzard
+Tauros
+- Body Slam
+- Earthquake
 - Hyper Beam
-- Explosion
+- Blizzard
 
 Snorlax
 - Body Slam
@@ -1416,26 +660,143 @@ Snorlax
 - Hyper Beam
 - Self-Destruct
 
-Tauros
-- Body Slam
-- Fire Blast
-- Hyper Beam
-- Blizzard
+
+=== [gen1ou] Disaster Area (Amnesia Lax) ===
 
 Exeggutor
-- Psychic
 - Sleep Powder
-- Stun Spore
+- Psychic
 - Explosion
-
-
-=== [gen1ou] Disaster Area (Standard) ===
+- Mega Drain
 
 Alakazam
 - Psychic
-- Seismic Toss
+- Reflect
 - Thunder Wave
 - Recover
+
+Chansey
+- Soft-Boiled
+- Thunder Wave
+- Reflect
+- Seismic Toss
+
+Starmie
+- Blizzard
+- Psychic
+- Recover
+- Thunder Wave
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Ice Beam
+- Amnesia
+- Rest
+
+
+=== [gen1ou] Syberia (Standard) ===
+
+Gengar
+- Explosion
+- Hypnosis
+- Mega Drain
+- Thunderbolt
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Golem
+- Body Slam
+- Earthquake
+- Explosion
+- Rock Slide
+
+Exeggutor
+- Explosion
+- Psychic
+- Sleep Powder
+- Stun Spore
+
+Starmie
+- Blizzard
+- Recover
+- Thunder Wave
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+
+=== [gen1ou] Disaster Area (Kingler) ===
+
+Gengar
+- Hypnosis
+- Night Shade
+- Thunderbolt
+- Explosion
+
+Kingler
+- Crabhammer
+- Body Slam
+- Hyper Beam
+- Swords Dance
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
+
+Chansey
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+- Thunderbolt
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Zapdos
+- Drill Peck
+- Thunderbolt
+- Thunder Wave
+- Light Screen
+
+
+=== [gen1ou] Disaster Area (Slowbro + Rhydon) ===
+
+Gengar
+- Hypnosis
+- Night Shade
+- Thunderbolt
+- Explosion
+
+Slowbro
+- Amnesia
+- Rest
+- Thunder Wave
+- Psychic
+
+Rhydon
+- Earthquake
+- Rock Slide
+- Body Slam
+- Substitute
 
 Chansey
 - Soft-Boiled
@@ -1449,140 +810,552 @@ Tauros
 - Earthquake
 - Hyper Beam
 
-Exeggutor
-- Leech Seed
-- Rest
-- Psychic
-- Stun Spore
-
-Lapras
-- Blizzard
+Snorlax
 - Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] TheIdiotNinja (Quadruple Boom) ===
+
+Gengar
+- Hypnosis
 - Thunderbolt
-- Confuse Ray
+- Night Shade
+- Explosion
 
-Rhydon
-- Earthquake
-- Rock Slide
-- Body Slam
-- Substitute
-
-
-=== [gen1ou] Disaster Area (Hyper Beam Exeggutor + Agility Articuno) ===
-
-Starmie
+Cloyster
+- Clamp
 - Blizzard
+- Hyper Beam
+- Explosion
+
+Exeggutor
 - Psychic
-- Recover
-- Thunder Wave
+- Sleep Powder
+- Stun Spore
+- Explosion
 
 Chansey
-- Reflect
-- Seismic Toss
+- Thunderbolt
+- Ice Beam
 - Soft-Boiled
 - Thunder Wave
 
 Tauros
 - Body Slam
-- Blizzard
+- Fire Blast
 - Hyper Beam
-- Earthquake
-
-Exeggutor
-- Hyper Beam
-- Sleep Powder
-- Psychic
-- Explosion
-
-Articuno
 - Blizzard
-- Sky Attack
-- Hyper Beam
-- Agility
-
-Rhydon
-- Earthquake
-- Rock Slide
-- Body Slam
-- Substitute
-
-
-=== [gen1ou] Disaster Area (Amnesia Lax) ===
-
-Exeggutor
-- Sleep Powder
-- Psychic
-- Explosion
-- Mega Drain
-
-Tauros
-- Body Slam
-- Blizzard
-- Earthquake
-- Hyper Beam
-
-Starmie
-- Blizzard
-- Psychic
-- Recover
-- Thunder Wave
-
-Chansey
-- Soft-Boiled
-- Thunder Wave
-- Reflect
-- Seismic Toss
 
 Snorlax
 - Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] marcoasd (2014) ===
+
+Gengar
+- Hypnosis
+- Thunderbolt
+- Night Shade
+- Explosion
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
+
+Chansey
 - Ice Beam
-- Amnesia
+- Thunderbolt
+- Thunder Wave
+- Soft-Boiled
+
+Tauros
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Blizzard
+
+Lapras
+- Blizzard
+- Thunderbolt
+- Body Slam
+- Confuse Ray
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] MoP (Agility Dragonite) ===
+
+Hypno
+- Thunder Wave
+- Hypnosis
+- Psychic
 - Rest
 
-Alakazam
+Exeggutor
+- Explosion
 - Psychic
-- Reflect
+- Sleep Powder
+- Double-Edge
+
+Rhydon
+- Body Slam
+- Earthquake
+- Rock Slide
+- Substitute
+
+Starmie
+- Blizzard
+- Surf
 - Thunder Wave
-- Recover
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Hyper Beam
+- Earthquake
+
+Dragonite
+- Agility
+- Blizzard
+- Hyper Beam
+- Wrap
 
 
-=== [gen1ou] Disaster Area (Reflect Lax + Leech Seed Exeggutor) ===
+=== [gen1ou] Disaster Area (Hyper Offense) ===
+
+Jolteon
+- Pin Missile
+- Thunderbolt
+- Thunder Wave
+- Double Kick
 
 Alakazam
 - Psychic
 - Seismic Toss
 - Thunder Wave
 - Recover
+
+Chansey
+- Soft-Boiled
+- Sing
+- Thunder Wave
+- Seismic Toss
+
+Starmie
+- Thunderbolt
+- Psychic
+- Recover
+- Thunder Wave
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Reflect
+- Rest
+
+
+=== [gen1ou] Disaster Area (Ladder Team) ===
+
+Jolteon
+- Thunderbolt
+- Pin Missile
+- Thunder Wave
+- Double Kick
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Hyper Beam
+- Explosion
+
+Chansey
+- Ice Beam
+- Counter
+- Thunder Wave
+- Soft-Boiled
+
+Starmie
+- Recover
+- Psychic
+- Blizzard
+- Thunder Wave
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Counter
+- Earthquake
+- Self-Destruct
+
+
+=== [gen1ou] 0mastar (Original) ===
+
+Jynx
+- Blizzard
+- Counter
+- Lovely Kiss
+- Psychic
+
+Persian
+- Bubble Beam
+- Hyper Beam
+- Slash
+- Screech
+
+Alakazam
+- Counter
+- Psychic
+- Recover
+- Thunder Wave
+
+Kingler
+- Body Slam
+- Crabhammer
+- Hyper Beam
+- Swords Dance
+
+Rhydon
+- Body Slam
+- Earthquake
+- Rock Slide
+- Substitute
+
+Chansey
+- Counter
+- Ice Beam
+- Soft-Boiled
+- Thunderbolt
+
+
+=== [gen1ou] Donk_Crystal ===
+
+Jynx
+- Blizzard
+- Lovely Kiss
+- Psychic
+- Counter
+
+Nidoking
+- Earthquake
+- Counter
+- Blizzard
+- Body Slam
+
+Alakazam
+- Psychic
+- Recover
+- Thunder Wave
+- Seismic Toss
+
+Exeggutor
+- Psychic
+- Stun Spore
+- Sleep Powder
+- Explosion
+
+Snorlax
+- Body Slam
+- Earthquake
+- Counter
+- Self-Destruct
+
+Articuno
+- Blizzard
+- Ice Beam
+- Rest
+- Hyper Beam
+
+
+=== [gen1ou] Isa (Reflect Lax) ===
+
+Jynx
+- Blizzard
+- Psychic
+- Lovely Kiss
+- Rest
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
+
+Chansey
+- Soft-Boiled
+- Thunder Wave
+- Thunderbolt
+- Ice Beam
+
+Starmie
+- Blizzard
+- Recover
+- Thunder Wave
+- Thunderbolt
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Reflect
+- Rest
+
+
+=== [gen1ou] GGFan (2007) ===
+
+Jynx
+- Lovely Kiss
+- Blizzard
+- Psychic
+- Body Slam
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Recover
+- Reflect
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Stun Spore
+
+Chansey
+- Ice Beam
+- Thunder Wave
+- Counter
+- Soft-Boiled
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] GGFan (2006) ===
+
+Jynx
+- Lovely Kiss
+- Blizzard
+- Psychic
+- Body Slam
+
+Gengar
+- Confuse Ray
+- Thunderbolt
+- Mega Drain
+- Explosion
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Stun Spore
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] gorgie. (JYNX, MAN) ===
+
+Jynx
+- Lovely Kiss
+- Psychic
+- Blizzard
+- Mimic
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Recover
+- Seismic Toss
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Stun Spore
+
+Tauros
+- Body Slam
+- Earthquake
+- Blizzard
+- Hyper Beam
+
+Lapras
+- Body Slam
+- Blizzard
+- Thunderbolt
+- Confuse Ray
+
+Snorlax
+- Body Slam
+- Blizzard
+- Amnesia
+- Self-Destruct
+
+
+=== [gen1ou] Lord Gengar ===
+
+Jynx
+- Lovely Kiss
+- Psychic
+- Blizzard
+- Mimic
+
+Persian
+- Bubble Beam
+- Hyper Beam
+- Slash
+- Screech
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Gengar
+- Hypnosis
+- Psychic
+- Explosion
+- Night Shade
+
+Tauros
+- Earthquake
+- Body Slam
+- Blizzard
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Counter
+- Earthquake
+- Self-Destruct
+
+
+=== [gen1ou] Fleggumfl (TankLax) ===
+
+Jynx
+- Lovely Kiss
+- Psychic
+- Blizzard
+- Rest
+
+Exeggutor
+- Sleep Powder
+- Explosion
+- Psychic
+- Stun Spore
+
+Chansey
+- Thunderbolt
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Blizzard
+- Earthquake
+
+Snorlax
+- Amnesia
+- Reflect
+- Ice Beam
+- Rest
+
+Zapdos
+- Drill Peck
+- Thunder
+- Thunderbolt
+- Thunder Wave
+
+
+=== [gen1ou] Disaster Area (Slowbro + Rhydon + Jynx) ===
 
 Jynx
 - Psychic
 - Lovely Kiss
-- Rest
+- Counter
 - Blizzard
 
-Snorlax
-- Body Slam
-- Reflect
-- Earthquake
-- Rest
-
-Chansey
-- Soft-Boiled
-- Thunder Wave
-- Reflect
-- Seismic Toss
-
-Exeggutor
-- Leech Seed
-- Rest
+Alakazam
 - Psychic
-- Stun Spore
+- Reflect
+- Thunder Wave
+- Recover
+
+Golem
+- Body Slam
+- Earthquake
+- Explosion
+- Rock Slide
+
+Slowbro
+- Amnesia
+- Rest
+- Thunder Wave
+- Psychic
 
 Tauros
 - Body Slam
 - Blizzard
 - Earthquake
 - Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Counter
+- Self-Destruct
+
 
 === [gen1ou] Disaster Area (FishLax + Counter Chansey) ===
 
@@ -1592,24 +1365,6 @@ Jynx
 - Rest
 - Blizzard
 
-Zapdos
-- Thunderbolt
-- Agility
-- Drill Peck
-- Thunder Wave
-
-Tauros
-- Body Slam
-- Blizzard
-- Earthquake
-- Hyper Beam
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Self-Destruct
-
 Exeggutor
 - Psychic
 - Sleep Powder
@@ -1622,21 +1377,6 @@ Chansey
 - Thunder Wave
 - Counter
 
-
-=== [gen1ou] Disaster Area (CounterLax) ===
-
-Jynx
-- Psychic
-- Lovely Kiss
-- Rest
-- Blizzard
-
-Zapdos
-- Thunderbolt
-- Agility
-- Drill Peck
-- Thunder Wave
-
 Tauros
 - Body Slam
 - Blizzard
@@ -1646,8 +1386,23 @@ Tauros
 Snorlax
 - Body Slam
 - Earthquake
-- Counter
+- Hyper Beam
 - Self-Destruct
+
+Zapdos
+- Thunderbolt
+- Agility
+- Drill Peck
+- Thunder Wave
+
+
+=== [gen1ou] Disaster Area (Mega Kick Lax + Counter Chansey) ===
+
+Jynx
+- Psychic
+- Lovely Kiss
+- Rest
+- Blizzard
 
 Exeggutor
 - Psychic
@@ -1659,16 +1414,7 @@ Chansey
 - Ice Beam
 - Soft-Boiled
 - Thunder Wave
-- Thunderbolt
-
-
-=== [gen1ou] Disaster Area (Mega Kick Lax + Counter Chansey) ===
-
-Jynx
-- Psychic
-- Lovely Kiss
-- Rest
-- Blizzard
+- Counter
 
 Starmie
 - Blizzard
@@ -1688,83 +1434,26 @@ Snorlax
 - Hyper Beam
 - Self-Destruct
 
-Exeggutor
-- Psychic
-- Sleep Powder
-- Explosion
-- Stun Spore
 
-Chansey
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-- Counter
-
-
-=== [gen1ou] Typhlito (Amnesia Lax) ===
-
-Alakazam
-- Psychic
-- Recover
-- Thunder Wave
-- Seismic Toss
-
-Tauros
-- Body Slam
-- Hyper Beam
-- Earthquake
-- Blizzard
-
-Chansey
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-- Counter
-
-Exeggutor
-- Sleep Powder
-- Psychic
-- Explosion
-- Egg Bomb
-
-Snorlax
-- Reflect
-- Amnesia
-- Rest
-- Ice Beam
-
-Jolteon
-- Thunderbolt
-- Thunder Wave
-- Pin Missile
-- Double Kick
-
-
-=== [gen1ou] Isa (Reflect Lax) ===
+=== [gen1ou] Disaster Area (CounterLax) ===
 
 Jynx
-- Blizzard
 - Psychic
 - Lovely Kiss
 - Rest
-
-Starmie
 - Blizzard
-- Recover
-- Thunder Wave
-- Thunderbolt
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Stun Spore
 
 Chansey
+- Ice Beam
 - Soft-Boiled
 - Thunder Wave
 - Thunderbolt
-- Ice Beam
-
-Exeggutor
-- Sleep Powder
-- Stun Spore
-- Psychic
-- Explosion
 
 Tauros
 - Body Slam
@@ -1775,236 +1464,41 @@ Tauros
 Snorlax
 - Body Slam
 - Earthquake
-- Reflect
-- Rest
-
-
-=== [gen1ou] Fleggumfl (TankLax) ===
-
-Jynx
-- Lovely Kiss
-- Psychic
-- Blizzard
-- Rest
-
-Tauros
-- Body Slam
-- Hyper Beam
-- Blizzard
-- Earthquake
-
-Snorlax
-- Amnesia
-- Reflect
-- Ice Beam
-- Rest
-
-Exeggutor
-- Sleep Powder
-- Explosion
-- Psychic
-- Stun Spore
-
-Zapdos
-- Drill Peck
-- Thunder
-- Thunderbolt
-- Thunder Wave
-
-Chansey
-- Thunderbolt
-- Ice Beam
-- Soft-Boiled
-- Thunder Wave
-
-
-=== [gen1ou] Fleggumfl (Bolt-Beam Chansey) ===
-
-Alakazam
-- Thunder Wave
-- Seismic Toss
-- Psychic
-- Recover
-
-Zapdos
-- Thunder
-- Thunderbolt
-- Drill Peck
-- Thunder Wave
-
-Snorlax
+- Counter
 - Self-Destruct
-- Body Slam
-- Earthquake
-- Hyper Beam
 
-Tauros
-- Body Slam
-- Hyper Beam
-- Blizzard
-- Earthquake
-
-Exeggutor
-- Psychic
-- Sleep Powder
-- Hyper Beam
-- Explosion
-
-Chansey
-- Thunder Wave
-- Ice Beam
+Zapdos
 - Thunderbolt
-- Soft-Boiled
-
-
-=== [gen1ou] MoP (Agility Dragonite) ===
-
-Hypno
-- T-Wave
-- Hypnosis
-- Psychic
-- Rest
-
-Dragonite
 - Agility
-- Blizzard
-- Hyper Beam
-- Wrap
-
-Exeggutor
-- Explosion
-- Psychic
-- Sleep Powder
-- Double-Edge
-
-Rhydon
-- Body Slam
-- Earthquake
-- Rock Slide
-- Substitute
-
-Starmie
-- Blizzard
-- Surf
+- Drill Peck
 - Thunder Wave
-- Thunderbolt
-
-Tauros
-- Blizzard
-- Body Slam
-- Hyper Beam
-- Earthquake
 
 
-=== [gen1ou] 0mastar (Original) ===
+=== [gen1ou] Disaster Area (The Standard?) ===
 
 Jynx
-- Blizzard
-- Counter
+- Psychic
 - Lovely Kiss
-- Psychic
-
-Kingler
-- Body Slam
-- Crabhammer
-- Hyper Beam
-- Swords Dance
-
-Persian
-- Bubblebeam
-- Hyper Beam
-- Slash
-- Screech / Thunder
-
-Chansey
-- Counter
-- Ice Beam
-- Softboiled
-- Thunderbolt
-
-Rhydon
-- Body Slam
-- Earthquake
-- Rock Slide
-- Substitute
-
-Alakazam
-- Counter
-- Psychic
-- Recover
-- Thunder Wave
-
-
-=== [gen1ou] Syberia (Standard) ===
-
-Gengar
-- Explosion
-- Hypnosis
-- Mega Drain
-- Thunderbolt
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
+- Rest
+- Blizzard
 
 Exeggutor
-- Explosion
 - Psychic
 - Sleep Powder
+- Explosion
 - Stun Spore
 
-Golem
-- Body Slam
-- Earthquake
-- Explosion
-- Rock Slide
-
-Starmie
-- Blizzard
-- Recover
+Chansey
+- Ice Beam
+- Soft-Boiled
 - Thunder Wave
 - Thunderbolt
 
 Tauros
-- Blizzard
 - Body Slam
+- Blizzard
 - Earthquake
 - Hyper Beam
-
-
-=== [gen1ou] Giga Punch (Cloyster) ===
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
-
-Chansey
-- Ice Beam
-- Sing
-- Softboiled
-- Thunder Wave
-
-Cloyster
-- Blizzard
-- Clamp
-- Explosion
-- Rest
-
-Exeggutor
-- Explosion
-- Mega Drain
-- Psychic
-- Sleep Powder
-
-or Victreebel
-- Razor Leaf
-- Sleep Powder
-- Stun Spore
-- Wrap
 
 Snorlax
 - Body Slam
@@ -2012,127 +1506,11 @@ Snorlax
 - Hyper Beam
 - Self-Destruct
 
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-
-=== [gen1ou] Jackal (Starmie strongh) ===
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
-
-Chansey
-- Ice Beam
-- Softboiled
-- Thunder Wave
-- Thunderbolt
-
-Exeggutor
-- Explosion
-- Mega Drain
-- Psychic
-- Sleep Powder
-
-Golem
-- Body Slam
-- Earthquake
-- Explosion
-- Rock Slid
-e
-Starmie
-- Blizzard
-- Recover
-- Surf
-- Thunderbolt
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
-
-=== [gen1ou] kd8 otome (Double Electric) ===
-
-Alakazam
-- Psychic
-- Recover
-- Seismic Toss
-- Thunder Wave
-
-Exeggutor
-- Explosion
-- Pschic
-- Mega Drain
-- Sleep Powder
-
-Jolteon
-- Double-Kick
-- Agility
-- Thunder Wave
-- Thunderbolt
-
-Snorlax
-- Body Slam
-- Earthquake
-- Self Destruct
-- Surf
-
-Tauros
-- Blizzard
-- Body Slam
-- Earthquake
-- Hyper Beam
-
 Zapdos
+- Thunderbolt
+- Light Screen
 - Drill Peck
 - Thunder Wave
-- Thunderbolt
-- Agility
-
-=== [gen1ou] shrapn3l (SPL2) ===
-
-Alakazam
-- Seismic Toss
-- Psychic
-- Thunder Wave
-- Recover
-
-Exeggutor
-- Sleep Powder
-- Stun Spore
-- Explosion
-- Psychic
-
-Lapras
-- Blizzard
-- Thunderbolt
-- Body Slam
-- Confuse Ray
-
-Jolteon
-- Thunderbolt
-- Thunder Wave
-- Pin Missile
-- Double Kick
-
-Snorlax
-- Body Slam
-- Earthquake
-- Hyper Beam
-- Self Destruct
-
-Tauros
-- Body Slam
-- Hyper Beam
-- Blizzard
-- Earthquake
 
 
 === [gen1ou] Disaster Area (Jynx Lead) ===
@@ -2143,11 +1521,23 @@ Jynx
 - Rest
 - Blizzard
 
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Stun Spore
+
 Rhydon
 - Earthquake
 - Rock Slide
 - Body Slam
 - Substitute
+
+Chansey
+- Ice Beam
+- Soft-Boiled
+- Thunder Wave
+- Thunderbolt
 
 Tauros
 - Body Slam
@@ -2161,6 +1551,21 @@ Snorlax
 - Hyper Beam
 - Self-Destruct
 
+
+=== [gen1ou] TheIdiotNinja (Jynx + Reflect Slowbro) ===
+
+Jynx
+- Psychic
+- Lovely Kiss
+- Rest
+- Blizzard
+
+Slowbro
+- Amnesia
+- Surf
+- Rest
+- Reflect
+
 Exeggutor
 - Psychic
 - Sleep Powder
@@ -2168,7 +1573,606 @@ Exeggutor
 - Stun Spore
 
 Chansey
-- Ice Beam
+- Seismic Toss
 - Soft-Boiled
 - Thunder Wave
+- Reflect
+
+Tauros
+- Body Slam
+- Hyper Beam
+- Earthquake
+- Blizzard
+
+Snorlax
+- Body Slam
+- Self-Destruct
+- Reflect
+- Rest
+
+
+=== [gen1ou] Disaster Area (Hyper Beam Exeggutor + Agility Articuno) ===
+
+Starmie
+- Blizzard
+- Psychic
+- Recover
+- Thunder Wave
+
+Exeggutor
+- Hyper Beam
+- Sleep Powder
+- Psychic
+- Explosion
+
+Rhydon
+- Earthquake
+- Rock Slide
+- Body Slam
+- Substitute
+
+Chansey
+- Reflect
+- Seismic Toss
+- Soft-Boiled
+- Thunder Wave
+
+Tauros
+- Body Slam
+- Blizzard
+- Hyper Beam
+- Earthquake
+
+Articuno
+- Blizzard
+- Sky Attack
+- Hyper Beam
+- Agility
+
+
+=== [gen1ou] GGFan (2013) ===
+
+Starmie
+- Blizzard
+- Psychic
+- Thunder Wave
+- Recover
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Reflect
+- Recover
+
+Exeggutor
+- Psychic
+- Sleep Powder
+- Explosion
+- Hyper Beam
+
+Chansey
+- Ice Beam
+- Thunder Wave
+- Soft-Boiled
+- Light Screen
+
+Tauros
+- Blizzard
+- Body Slam
+- Hyper Beam
+- Earthquake
+
+Snorlax
+- Body Slam
+- Hyper Beam
+- Earthquake
+- Self-Destruct
+
+
+=== [gen1ou] Ortheore (Oddball Wrap) ===
+
+Starmie
+- Blizzard
+- Psychic
+- Thunder Wave
+- Recover
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Reflect
+- Recover
+
+Victreebel
+- Razor Leaf
+- Stun Spore
+- Sleep Powder
+- Wrap
+
+Golem
+- Body Slam
+- Earthquake
+- Rock Slide
+- Explosion
+
+Cloyster
+- Clamp
+- Blizzard
+- Hyper Beam
+- Explosion
+
+Jolteon
+- Double Kick
+- Pin Missile
 - Thunderbolt
+- Thunder Wave
+
+
+=== [gen1ou] GGFan (2012) ===
+
+Starmie
+- Blizzard
+- Psychic
+- Thunder Wave
+- Recover
+
+Clefable
+- Blizzard
+- Body Slam
+- Thunder Wave
+- Hyper Beam
+
+Exeggutor
+- Explosion
+- Psychic
+- Sleep Powder
+- Stun Spore
+
+Chansey
+- Ice Beam
+- Thunder Wave
+- Counter
+- Soft-Boiled
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] marcoasd (Rhydon) ===
+
+Starmie
+- Blizzard
+- Psychic
+- Thunder Wave
+- Recover
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
+
+Rhydon
+- Earthquake
+- Rock Slide
+- Body Slam
+- Substitute
+
+Chansey
+- Seismic Toss
+- Reflect
+- Thunder Wave
+- Soft-Boiled
+
+Tauros
+- Body Slam
+- Fire Blast
+- Hyper Beam
+- Blizzard
+
+Snorlax
+- Body Slam
+- Self-Destruct
+- Reflect
+- Rest
+
+
+=== [gen1ou] GGFan (2011) ===
+
+Starmie
+- Blizzard
+- Psychic
+- Thunder Wave
+- Recover
+
+Nidoqueen
+- Blizzard
+- Body Slam
+- Earthquake
+- Thunderbolt
+
+Clefable
+- Blizzard
+- Body Slam
+- Thunder Wave
+- Hyper Beam
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Jolteon
+- Thunderbolt
+- Thunder Wave
+- Pin Missile
+- Double Kick
+
+Snorlax
+- Amnesia
+- Reflect
+- Body Slam
+- Rest
+
+
+=== [gen1ou] GGFan (2003) ===
+
+Starmie
+- Blizzard
+- Thunderbolt
+- Thunder Wave
+- Recover
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Reflect
+- Recover
+
+Exeggutor
+- Explosion
+- Psychic
+- Stun Spore
+- Sleep Powder
+
+Chansey
+- Ice Beam
+- Thunderbolt
+- Thunder Wave
+- Soft-Boiled
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] GGFan (2002) ===
+
+Starmie
+- Blizzard
+- Thunderbolt
+- Thunder Wave
+- Recover
+
+Alakazam
+- Psychic
+- Thunder Wave
+- Reflect
+- Recover
+
+Golem
+- Explosion
+- Earthquake
+- Rock Slide
+- Body Slam
+
+Slowbro
+- Amnesia
+- Surf
+- Thunder Wave
+- Rest
+
+Exeggutor
+- Explosion
+- Psychic
+- Mega Drain
+- Sleep Powder
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+
+=== [gen1ou] gorgie. (AmnesiaSNORLAX) ===
+
+Starmie
+- Blizzard
+- Thunder Wave
+- Psychic
+- Recover
+
+Alakazam
+- Recover
+- Psychic
+- Thunder Wave
+- Seismic Toss
+
+Exeggutor
+- Explosion
+- Psychic
+- Sleep Powder
+- Stun Spore
+
+Tauros
+- Body Slam
+- Blizzard
+- Earthquake
+- Hyper Beam
+
+Lapras
+- Rest
+- Blizzard
+- Body Slam
+- Thunderbolt
+
+Snorlax
+- Amnesia
+- Ice Beam
+- Reflect
+- Rest
+
+
+=== [gen1ou] gorgie. (NEW_META) ===
+
+Starmie
+- Ice Beam
+- Thunder Wave
+- Psychic
+- Recover
+
+Slowbro
+- Amnesia
+- Surf
+- Rest
+- Thunder Wave
+
+Exeggutor
+- Sleep Powder
+- Mega Drain
+- Psychic
+- Explosion
+
+Chansey
+- Reflect
+- Soft-Boiled
+- Seismic Toss
+- Counter
+
+Tauros
+- Body Slam
+- Earthquake
+- Blizzard
+- Hyper Beam
+
+Zapdos
+- Thunder Wave
+- Thunderbolt
+- Drill Peck
+- Rest
+
+
+=== [gen1ou] gorgie. (Double Electric) ===
+
+Starmie
+- Psychic
+- Ice Beam
+- Thunder Wave
+- Recover
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Exeggutor
+- Sleep Powder
+- Psychic
+- Explosion
+- Mega Drain
+
+Jolteon
+- Thunder Wave
+- Thunderbolt
+- Double Kick
+- Pin Missile
+
+Snorlax
+- Body Slam
+- Earthquake
+- Surf
+- Self-Destruct
+
+Zapdos
+- Thunderbolt
+- Drill Peck
+- Thunder Wave
+- Rest
+
+
+=== [gen1ou] gorgie. (Double Elec with Tauros > Zap) ===
+
+Starmie
+- Psychic
+- Ice Beam
+- Thunder Wave
+- Recover
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Exeggutor
+- Sleep Powder
+- Psychic
+- Explosion
+- Mega Drain
+
+Tauros
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Blizzard
+
+Jolteon
+- Thunder Wave
+- Thunderbolt
+- Double Kick
+- Pin Missile
+
+Snorlax
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Self-Destruct
+
+
+=== [gen1ou] Disaster Area (CounterLax + Golem) ===
+
+Starmie
+- Psychic
+- Recover
+- Thunder Wave
+- Blizzard
+
+Golem
+- Earthquake
+- Explosion
+- Body Slam
+- Rock Slide
+
+Exeggutor
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
+
+Chansey
+- Thunderbolt
+- Thunder Wave
+- Soft-Boiled
+- Ice Beam
+
+Tauros
+- Body Slam
+- Earthquake
+- Hyper Beam
+- Blizzard
+
+Snorlax
+- Counter
+- Body Slam
+- Earthquake
+- Self-Destruct
+
+
+=== [gen1ou] gorgie. (BETSY STAR) ===
+
+Starmie
+- Recover
+- Psychic
+- Ice Beam
+- Thunderbolt
+
+Alakazam
+- Thunder Wave
+- Psychic
+- Recover
+- Seismic Toss
+
+Slowbro
+- Counter
+- Amnesia
+- Surf
+- Rest
+
+Chansey
+- Reflect
+- Ice Beam
+- Soft-Boiled
+- Thunderbolt
+
+Tauros
+- Blizzard
+- Body Slam
+- Earthquake
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Self-Destruct
+- Counter
+
+
+=== [gen1ou] WrapitUp ===
+
+Starmie
+- Thunder Wave
+- Psychic
+- Recover
+- Ice Beam
+
+Alakazam
+- Psychic
+- Recover
+- Seismic Toss
+- Thunder Wave
+
+Exeggutor
+- Stun Spore
+- Psychic
+- Sleep Powder
+- Explosion
+
+Tauros
+- Body Slam
+- Earthquake
+- Blizzard
+- Hyper Beam
+
+Snorlax
+- Body Slam
+- Earthquake
+- Self-Destruct
+- Counter
+
+Dragonite
+- Wrap
+- Surf
+- Agility
+- Hyper Beam
+
+

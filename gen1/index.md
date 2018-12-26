@@ -24,7 +24,7 @@
  - [Donk_Crystal][5]
  - [Disaster Area (CounterLax + Golem)][12]
  - [Disaster Area (Slowbro + Rhydon)][12]
- - [Disaster Area (Slowbro + Rhydon w/ Jynx)][12]
+ - [Disaster Area (Slowbro + Rhydon + Jynx)][12]
  - [Disaster Area (Hyper Offense)][12]
  - [Disaster Area (The Standard?)][12]
  - [Disaster Area (Ladder Team)][12]
