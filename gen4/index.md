@@ -20,7 +20,7 @@
 - [-RatCheesy (The Powerless Rise)][22]
 - [LizardMan (Bells of Destruction)][23]
 - [tobi10 (Six Paths of Pain)][24]
-- [BKC (Bleed/Hybrid Theory)][12]
+- [BKC (Bleed)][12]
 - [SOMALIA (Band Nape Madness)][6]
 - [august (Obi Stall Revamp)][6]
 - [Jirachee (Eagle)][6]
