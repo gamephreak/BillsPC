@@ -1129,7 +1129,7 @@ Snorlax
 - Rest
 
 
-=== [gen1ou] GGFan (2007) ===
+=== [gen1ou] GGFan (2006) ===
 
 Jynx
 - Lovely Kiss
@@ -1168,7 +1168,7 @@ Snorlax
 - Self-Destruct
 
 
-=== [gen1ou] GGFan (2006) ===
+=== [gen1ou] GGFan (2007) ===
 
 Jynx
 - Lovely Kiss
@@ -1176,17 +1176,23 @@ Jynx
 - Psychic
 - Body Slam
 
-Gengar
-- Confuse Ray
-- Thunderbolt
-- Mega Drain
-- Explosion
+Alakazam
+- Psychic
+- Thunder Wave
+- Recover
+- Reflect
 
 Exeggutor
 - Psychic
 - Sleep Powder
 - Explosion
 - Stun Spore
+
+Chansey
+- Ice Beam
+- Thunder Wave
+- Counter
+- Soft-Boiled
 
 Tauros
 - Blizzard
@@ -1197,8 +1203,8 @@ Tauros
 Snorlax
 - Body Slam
 - Earthquake
-- Hyper Beam
-- Self-Destruct
+- Reflect
+- Rest
 
 
 === [gen1ou] gorgie. (JYNX, MAN) ===
