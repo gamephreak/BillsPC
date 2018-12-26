@@ -1,2665 +1,2505 @@
-=== [gen2ou] gorgie. (Modified_Thieving_Bandits) ===
-
-Nidoking @ (No Item)
-- Earthquake
-- Ice Beam
-- Thunder
-- Thief
-
-Jynx @ (No Item)
-- Lovely Kiss
-- Nightmare
-- Ice Beam
-- Thief
-
-Snorlax @ Leftovers
-- Curse
-- Rest
-- Sleep Talk
-- Double-Edge
-
-Gengar @ (No Item)
-- Thief
-- Explosion
-- Thunderbolt
-- Ice Punch
-
-Zapdos @ Magnet
-IVs: 26 Def
-- Thunder
-- Roar
-- Hidden Power [Ice]
-- Toxic
-
-Cloyster @ Leftovers
-- Surf
-- Spikes
-- Toxic
-- Explosion
-
-
-=== [gen2ou] gorgie. (DRUMKING) ===
-
-Nidoking @ Leftovers
-- Earthquake
-- Lovely Kiss
-- Ice Beam
-- Flamethrower
-
-Umbreon @ Leftovers
-- Pursuit
-- Toxic
-- Charm
-- Moonlight
-
-Snorlax @ Leftovers
-- Double-Edge
-- Rest
-- Curse
-- Sleep Talk
-
-Charizard @ Leftovers
-- Belly Drum
-- Fire Blast
-- Earthquake
-- Rock Slide
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Toxic
-- Explosion
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Thunder
-- Hidden Power [Ice]
-- Roar
-- Thunder Wave
-
-
-=== [gen2ou] gorgie. (SMEARGLE TTRAP) ===
-
-Raikou @ Leftovers
-- Thunder
-- Roar
-- Hidden Power [Ice]
-- Rest
-
-Smeargle @ Leftovers
-- Spider Web
-- Baton Pass
-- Protect
-- Disable
-
-Machamp @ Leftovers
-- Cross Chop
-- Curse
-- Rest
-- Earthquake
-
-Heracross @ Leftovers
-- Curse
-- Megahorn
-- Rest
-- Hidden Power [Flying]
-
-Snorlax @ Leftovers
-- Body Slam
-- Belly Drum
-- Earthquake
-- Rest
-
-Vaporeon @ Leftovers
-- Rest
-- Sleep Talk
-- Surf
-- Growth
-
-
-=== [gen2ou] gorgie. (STALL) ===
-
-Raikou @ Leftovers
-- Rest
-- Roar
-- Thunderbolt
-- Toxic
-
-Cloyster @ Leftovers
-- Hidden Power [Grass]
-- Spikes
-- Surf
-- Toxic
-
-Starmie @ Leftovers
-- Rapid Spin
-- Recover
-- Surf
-- Toxic
-
-Skarmory @ Leftovers
-- Attract
-- Rest
-- Sleep Talk
-- Whirlwind
-
-Meganium @ Leftovers
-- Leech Seed
-- Reflect
-- Razor Leaf
-- Synthesis
-
-Snorlax @ Leftovers
-- Belly Drum
-- Flamethrower
-- Return
-- Rest
-
-
-=== [gen2ou] gorgie. (3AtkLax_Missy_HERA) ===
-
-Raikou @ Leftovers
-- Thunderbolt
-- Rest
-- Hidden Power [Ice]
-- Roar
-
-Cloyster @ Leftovers
-- Surf
-- Spikes
-- Toxic
-- Explosion
-
-Starmie @ Leftovers
-- Rapid Spin
-- Recover
-- Psychic
-- Toxic
-
-Misdreavus @ Leftovers
-- Mean Look
-- Pain Split
-- Perish Song
-- Protect
-
-Snorlax @ Leftovers
-- Double-Edge
-- Earthquake
-- Flamethrower
-- Rest
-
-Heracross @ Leftovers
-- Megahorn
-- Curse
-- Rest
-- Sleep Talk
-
-
-=== [gen2ou] gorgie. (OPERATIONBOOMELECWALLS) ===
-
-Zapdos @ Leftovers
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-- Thunder
-
-Gengar @ Leftovers
-- Destiny Bond
-- Perish Song
-- Mean Look
-- Protect
-
-Exeggutor @ Leftovers
-- Explosion
-- Giga Drain
-- Hidden Power [Fire]
-- Psychic
-
-Houndoom @ Miracle Berry
-- Pursuit
-- Fire Blast
-- Crunch
-- Thief
-
-Raikou @ Leftovers
-- Hidden Power [Ice]
-- Rest
-- Roar
-- Thunder
-
-Vaporeon @ Leftovers
-- Growth
-- Rest
-- Acid Armor
-- Surf
-
-
-=== [gen2ou] gorgie. (Playoffs_RaikouSHuffle) ===
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Toxic
-- Rapid Spin
-- Spikes
-- Surf
-
-Raikou @ Leftovers
-- Reflect
-- Rest
-- Roar
-- Thunderbolt
-
-Snorlax @ Leftovers
-- Belly Drum
-- Return
-- Lovely Kiss
-- Rest
-
-Umbreon @ Leftovers
-- Charm
-- Pursuit
-- Rest
-- Toxic
-
-Machamp @ Leftovers
-- Curse
-- Cross Chop
-- Rest
-- Sleep Talk
-
-Skarmory @ Leftovers
-- Curse
-- Rest
-- Drill Peck
-- Whirlwind
-
-
-=== [gen2ou] gorgie. (GrowthJOLT) ===
-
-Exeggutor @ Leftovers
-- Psychic
-- Stun Spore
-- Giga Drain
-- Explosion
-
-Jolteon @ Leftovers
-- Growth
-- Thunderbolt
-- Hidden Power [Ice]
-- Roar
-
-Quagsire @ Leftovers
-- Earthquake
-- Belly Drum
-- Hidden Power [Rock]
-- Rest
-
-Snorlax @ Leftovers
-- Belly Drum
-- Body Slam
-- Rest
-- Earthquake
-
-Dragonite @ Leftovers
-- Haze
-- Rest
-- Reflect
-- Sleep Talk
-
-Cloyster @ Leftovers
-- Explosion
-- Spikes
-- Surf
-- Hidden Power [Electric]
-
-
-=== [gen2ou] gorgie. (BATSHITAERO) ===
-
-Snorlax @ Leftovers
-- Fire Blast
-- Double-Edge
-- Curse
-- Self-Destruct
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Explosion
-- Hidden Power [Electric]
-
-Zapdos @ Leftovers
-- Thunder
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-
-Nidoking @ Leftovers
-- Lovely Kiss
-- Earthquake
-- Ice Beam
-- Thunder
-
-Gengar @ Leftovers
-- Destiny Bond
-- Ice Punch
-- Thunderbolt
-- Explosion
-
-Aerodactyl @ Berserk Gene
-- Hidden Power [Rock]
-- Wing Attack
-- Earthquake
-- Double-Edge
-
-
-=== [gen2ou] Jorgen (GSC BP) ===
-
-Smeargle @ Miracle Berry
-- Spore
-- Baton Pass
-- Agility
-- Spider Web
-
-Snorlax @ Leftovers
-- Mega Kick
-- Earthquake
-- Belly Drum
-- Self-Destruct
-
-Jolteon @ Leftovers
-- Thunderbolt
-- Hidden Power [Water]
-- Agility
-- Baton Pass
-
-Marowak @ Thick Club
-- Earthquake
-- Rock Slide
-- Hidden Power [Bug]
-- Swords Dance
-
-Machamp @ Miracle Berry
-- Cross Chop
-- Rock Slide
-- Hidden Power [Bug]
-- Meditate
-
-Scizor @ Miracle Berry
-- Hidden Power [Bug]
-- Swords Dance
-- Agility
-- Baton Pass
-
-
-=== [gen2ou] Jorgen (Offense) ===
-
-Nidoking @ Leftovers
-- Earthquake
-- Lovely Kiss
-- Ice Beam
-- Thunder
-
-Snorlax @ Leftovers
-- Double-Edge
-- Curse
-- Rest
-- Sleep Talk
-
-Zapdos @ Leftovers
-- Thunder
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-
-Tyranitar @ Leftovers
-- Rock Slide
-- Crunch
-- Pursuit
-- Roar
-
-Exeggutor @ Leftovers
-- Psychic
-- Giga Drain
-- Explosion
-- Hidden Power [Fire]
-
-Cloyster @ Leftovers
-- Surf
-- Toxic
-- Spikes
-- Explosion
-
-
-=== [gen2ou] Mr. 378 (GSC Offense) ===
-
-Zapdos @ Leftovers
-- Thunder
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-
-Snorlax @ Leftovers
-- Body Slam
-- Earthquake
-- Fire Blast
-- Self-Destruct
-
-Steelix @ Leftovers
-- Earthquake
-- Explosion
-- Roar
-- Curse
-
-Cloyster @ Leftovers
-- Surf
-- Hidden Power [Electric]
-- Explosion
-- Spikes
-
-Exeggutor @ Leftovers
-- Giga Drain
-- Psychic
-- Explosion
-- Sleep Powder
-
-Machamp @ Leftovers
-- Cross Chop
-- Earthquake
-- Hidden Power [Bug]
-- Curse
-
-
-=== [gen2ou] Mr. 378 (GSC Stall) ===
-
-Raikou @ Leftovers
-- Thunderbolt
-- Reflect
-- Roar
-- Rest
-
-Snorlax @ Leftovers
-- Return
-- Lovely Kiss
-- Belly Drum
-- Rest
-
-Skarmory @ Leftovers
-- Drill Peck
-- Curse
-- Whirlwind
-- Rest
-
-Miltank @ Leftovers
-- Body Slam
-- Heal Bell
-- Growl
-- Milk Drink
-
-Starmie @ Leftovers
-- Surf
-- Toxic
-- Rapid Spin
-- Recover
-
-Suicune @ Leftovers
-- Surf
-- Ice Beam
-- Rest
-- Sleep Talk
-
-
-=== [gen2ou] Nat (Growth Vaporeon) ===
-
-Nidoking @ Leftovers
-- Earthquake
-- Lovely Kiss
-- Ice Beam
-- Thunder
-
-Skarmory @ Leftovers
-- Whirlwind
-- Drill Peck
-- Rest
-- Curse
-
-Snorlax @ Leftovers
-- Double-Edge
-- Lovely Kiss
-- Self-Destruct
-- Fire Blast
-
-Vaporeon @ Leftovers
-- Surf
-- Growth
-- Rest
-- Sleep Talk
-
-Raikou @ Leftovers
-- Thunder
-- Roar
-- Reflect
-- Rest
-
-Forretress @ Leftovers
-- Spikes
-- Hidden Power [Bug]
-- Rapid Spin
-- Explosion
-
-
-=== [gen2ou] Nat (Balance) ===
-
-Exeggutor @ Leftovers
-- Psychic
-- Giga Drain
-- Sleep Powder
-- Explosion
-
-Forretress @ Leftovers
-- Spikes
-- Hidden Power [Bug]
-- Rapid Spin
-- Explosion
-
-Suicune @ Leftovers
-- Surf
-- Toxic
-- Roar
-- Rest
-
-Zapdos @ Leftovers
-- Thunder
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-
-Snorlax @ Leftovers
-- Double-Edge
-- Curse
-- Rest
-- Sleep Talk
-
-Steelix @ Leftovers
-- Earthquake
-- Curse
-- Roar
-- Rock Slide
-
-
-=== [gen2ou] Lavos (Charizard Offense) ===
-
-Snorlax @ Leftovers
-- Lovely Kiss
-- Curse
-- Body Slam
-- Earthquake
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Icy Wind
-- Explosion
-
-Zapdos @ Leftovers
-- Rest
-- Sleep Talk
-- Light Screen
-- Thunder
-
-Steelix @ Leftovers
-- Body Slam
-- Earthquake
-- Roar
-- Explosion
-
-Exeggutor @ Leftovers
-- Stun Spore
-- Giga Drain
-- Psychic
-- Explosion
-
-Charizard @ Miracle Berry
-- Belly Drum
-- Rock Slide
-- Earthquake
-- Fire Blast
-
-
-=== [gen2ou] Lavos (Lead Exeggutor BP) ===
-
-Exeggutor @ Leftovers
-- Substitute
-- Leech Seed
-- Psychic
-- Explosion
-
-Smeargle @ Miracle Berry
-- Spore
-- Baton Pass
-- Agility
-- Spider Web
-
-Jolteon @ Leftovers
-IVs: 14 HP / 28 Atk / 26 Def
-- Thunderbolt
-- Baton Pass
-- Agility
-- Hidden Power [Water]
-
-Marowak @ Thick Club
-IVs: 26 Atk / 26 Def
-- Swords Dance
-- Earthquake
-- Rock Slide
-- Hidden Power [Bug]
-
-Snorlax @ Leftovers
-- Protect
-- Belly Drum
-- Return
-- Earthquake
-
-Machamp @ Miracle Berry
-IVs: 26 Atk / 26 Def
-- Meditate
-- Cross Chop
-- Rock Slide
-- Hidden Power [Bug]
-
-
-=== [gen2ou] Lavos (Jynx Boom Offense) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Explosion
-
-Steelix @ Leftovers
-- Body Slam
-- Earthquake
-- Roar
-- Explosion
-
-Jynx @ Leftovers
-- Substitute
-- Lovely Kiss
-- Ice Beam
-- Psychic
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Body Slam
-- Earthquake
-
-Gengar @ Leftovers
-- Thunderbolt
-- Ice Punch
-- Dynamic Punch
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (Bait Smeargle Offense) ===
-
-Smeargle @ Miracle Berry
-- Spore
-- Spikes
-- Mirror Coat
-- Destiny Bond
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Exeggutor @ Leftovers
-IVs: 6 HP / 28 Atk / 24 Def
-- Giga Drain
-- Psychic
-- Hidden Power [Fire]
-- Explosion
-
-Machamp @ Leftovers
-- Curse
-- Cross Chop
-- Rock Slide
-- Earthquake
-
-Snorlax @ Leftovers
-- Curse
-- Body Slam
-- Earthquake
-- Self-Destruct
-
-Gengar @ Leftovers
-- Thunder
-- Ice Punch
-- Dynamic Punch
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (NidoChamp) ===
-
-Nidoking @ Leftovers
-- Lovely Kiss
-- Earthquake
-- Ice Beam
-- Thunder
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Toxic
-- Explosion
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Machamp @ Leftovers
-- Curse
-- Cross Chop
-- Rock Slide
-- Earthquake
-
-Snorlax @ Leftovers
-- Rest
-- Sleep Talk
-- Curse
-- Body Slam
-
-Tyranitar @ Leftovers
-- Rock Slide
-- Pursuit
-- Roar
-- Fire Blast
-
-
-=== [gen2ou] Lavos (dice Triple Normal Stall) ===
-
-Snorlax @ Leftovers
-- Rest
-- Belly Drum
-- Body Slam
-- Earthquake
-
-Starmie @ Leftovers
-- Surf
-- Psychic
-- Rapid Spin
-- Recover
-
-Skarmory @ Leftovers
-- Rest
-- Curse
-- Drill Peck
-- Whirlwind
-
-Suicune @ Leftovers
-IVs: 2 Atk
-- Rest
-- Sleep Talk
-- Surf
-- Toxic
-
-Blissey @ Leftovers
-- Present
-- Sing
-- Ice Beam
-- Soft-Boiled
-
-Miltank @ Leftovers
-- Body Slam
-- Growl
-- Heal Bell
-- Milk Drink
-
-
-=== [gen2ou] Lavos (Tentacruel No Phazer) ===
-
-Nidoking @ (No Item)
-- Thief
-- Lovely Kiss
-- Earthquake
-- Ice Beam
-
-Cloyster @ Leftovers
-- Spikes
-- Screech
-- Clamp
-- Explosion
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Exeggutor @ Leftovers
-IVs: 6 HP / 28 Atk / 24 Def
-- Giga Drain
-- Psychic
-- Hidden Power [Fire]
-- Explosion
-
-Snorlax @ Leftovers
-- Curse
-- Body Slam
-- Earthquake
-- Self-Destruct
-
-Tentacruel @ Leftovers
-- Substitute
-- Swords Dance
-- Hydro Pump
-- Sludge Bomb
-
-
-=== [gen2ou] Lavos (Full GrowthPass) ===
-
-Umbreon @ BrightPowder
-- Mean Look
-- Baton Pass
-- Confuse Ray
-- Sand Attack
-
-Smeargle @ Miracle Berry
-- Spore
-- Baton Pass
-- Agility
-- Spider Web
-
-Vaporeon @ Leftovers
-- Substitute
-- Baton Pass
-- Growth
-- Hydro Pump
-
-Mr. Mime @ Leftovers
-- Substitute
-- Baton Pass
-- Encore
-- Barrier
-
-Jolteon @ Leftovers
-IVs: 14 HP / 28 Atk / 26 Def
-- Growth
-- Baton Pass
-- Hidden Power [Water]
-- Thunder
-
-Starmie @ Mystic Water
-- Surf
-- Thunderbolt
-- Ice Beam
-- Rain Dance
-
-
-=== [gen2ou] Lavos (choolio MegaHounDon) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Rapid Spin
-
-Rhydon @ Leftovers
-- Curse
-- Earthquake
-- Rock Slide
-- Roar
-
-Houndoom @ Leftovers
-- Sunny Day
-- Pursuit
-- Solar Beam
-- Fire Blast
-
-Snorlax @ Leftovers
-- Rest
-- Belly Drum
-- Lovely Kiss
-- Return
-
-Meganium @ Leftovers
-- Reflect
-- Leech Seed
-- Razor Leaf
-- Synthesis
-
-
-=== [gen2ou] Lavos (SleepTrap BP) ===
-
-Umbreon @ Leftovers
-- Moonlight
-- Baton Pass
-- Confuse Ray
-- Mean Look
-
-Smeargle @ Miracle Berry
-- Spore
-- Baton Pass
-- Spikes
-- Spider Web
-
-Starmie @ Leftovers
-- Surf
-- Psychic
-- Rapid Spin
-- Recover
-
-Marowak @ Thick Club
-IVs: 26 Atk / 26 Def
-- Swords Dance
-- Earthquake
-- Rock Slide
-- Hidden Power [Bug]
-
-Snorlax @ Leftovers
-- Rest
-- Sleep Talk
-- Curse
-- Double-Edge
-
-Misdreavus @ Leftovers
-- Protect
-- Perish Song
-- Mean Look
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (JynxChamp Offense) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Explosion
-
-Rhydon @ Leftovers
-- Curse
-- Earthquake
-- Rock Slide
-- Roar
-
-Jynx @ Leftovers
-- Substitute
-- Lovely Kiss
-- Ice Beam
-- Psychic
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Body Slam
-- Earthquake
-
-Machamp @ Leftovers
-IVs: 14 HP / 24 Atk / 26 Def
-- Curse
-- Cross Chop
-- Rock Slide
-- Hidden Power [Flying]
-
-
-=== [gen2ou] Lavos (Charizard) ===
-
-Exeggutor @ Leftovers
-- Stun Spore
-- Giga Drain
-- Psychic
-- Explosion
-
-Starmie @ Leftovers
-- Surf
-- Thunder Wave
-- Rapid Spin
-- Recover
-
-Rhydon @ Leftovers
-- Curse
-- Earthquake
-- Rock Slide
-- Roar
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Snorlax @ Leftovers
-- Rest
-- Belly Drum
-- Body Slam
-- Earthquake
-
-Charizard @ Leftovers
-- Belly Drum
-- Rock Slide
-- Earthquake
-- Fire Blast
-
-
-=== [gen2ou] Fear (SPL9#1) ===
-
-Snorlax @ Leftovers
-- Self-Destruct
-- Fire Blast
-- Double-Edge
-- Rest
-
-Forretress @ Leftovers
-- Explosion
-- Spikes
-- Protect
-- Rapid Spin
-
-Skarmory @ Leftovers
-- Rest
-- Whirlwind
-- Drill Peck
-- Toxic
-
-Gengar @ Leftovers
-- Dynamic Punch
-- Explosion
-- Ice Punch
-- Thunder
-
-Kangaskhan @ Leftovers
-- Curse
-- Substitute
-- Return
-- Roar
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Thunder
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-
-
-=== [gen2ou] Fear (SPL9#2) ===
-
-Snorlax @ Leftovers
-- Curse
-- Double-Edge
-- Sleep Talk
-- Rest
-
-Forretress @ Leftovers
-IVs: 22 HP / 26 Atk / 28 Def
-- Toxic
-- Spikes
-- Rapid Spin
-- Hidden Power [Ghost]
-
-Skarmory @ Leftovers
-- Rest
-- Toxic
-- Drill Peck
-- Whirlwind
-
-Tyranitar @ Leftovers
-- Earthquake
-- Roar
-- Screech
-- Rock Slide
-
-Misdreavus @ Leftovers
-- Toxic
-- Pain Split
-- Psychic
-- Thunderbolt
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Hidden Power [Ice]
-- Thunder
-- Sleep Talk
-
-
-=== [gen2ou] Lavos (Sunny Day) ===
-
-Snorlax @ Leftovers
-- Rest
-- Sleep Talk
-- Curse
-- Double-Edge
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Clamp
-- Explosion
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Roar
-- Hidden Power [Ice]
-- Thunderbolt
-
-Houndoom @ Charcoal
-- Sunny Day
-- Fire Blast
-- Solar Beam
-- Counter
-
-Entei @ Leftovers
-IVs: 6 HP / 24 Atk / 24 Def
-- Sunny Day
-- Fire Blast
-- Solar Beam
-- Hidden Power [Fighting]
-
-Exeggutor @ Leftovers
-- Sleep Powder
-- Giga Drain
-- Psychic
-- Explosion
-
-
-=== [gen2ou] Lavos (Spin Tentacruel) ===
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Roar
-- Hidden Power [Ice]
-- Thunder
-
-Tentacruel @ Leftovers
-- Protect
-- Rapid Spin
-- Surf
-- Sludge Bomb
-
-Skarmory @ (No Item)
-- Rest
-- Thief
-- Toxic
-- Whirlwind
-
-Heracross @ Leftovers
-- Rest
-- Sleep Talk
-- Megahorn
-- Seismic Toss
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Lovely Kiss
-- Return
-
-Tyranitar @ Leftovers
-- Rock Slide
-- Earthquake
-- Pursuit
-- Fire Blast
-
-=== [gen2ou] Lavos (2x Electric TTar) ===
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Forretress @ Leftovers
-IVs: 6 HP / 28 Atk / 24 Def
-- Spikes
-- Rapid Spin
-- Giga Drain
-- Hidden Power [Fire]
-
-Skarmory @ (No Item)
-- Rest
-- Thief
-- Drill Peck
-- Whirlwind
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Body Slam
-- Earthquake
-
-Tyranitar @ Leftovers
-IVs: 22 HP / 26 Atk / 24 Def
-- Rest
-- Curse
-- Rock Slide
-- Roar
-
-
-=== [gen2ou] Lavos (Reversal) ===
-
-Tyranitar @ Leftovers
-- Rock Slide
-- Pursuit
-- Dynamic Punch
-- Fire Blast
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Ice Beam
-- Explosion
-
-Exeggutor @ Leftovers
-- Sleep Powder
-- Giga Drain
-- Psychic
-- Explosion
-
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Roar
-- Explosion
-
-Snorlax @ Leftovers
-- Curse
-- Body Slam
-- Earthquake
-- Self-Destruct
-
-Heracross @ Miracle Berry
-- Endure
-- Reversal
-- Megahorn
-- Seismic Toss
-
-
-=== [gen2ou] Lavos (Ice Spam) ===
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Double-Edge
-- Thunder
-
-Forretress @ Leftovers
-- Spikes
-- Rapid Spin
-- Giga Drain
-- Explosion
-
-Skarmory @ Leftovers
-- Rest
-- Curse
-- Drill Peck
-- Whirlwind
-
-Piloswine @ Leftovers
-- Rest
-- Sleep Talk
-- Ice Beam
-- Earthquake
-
-Jynx @ Leftovers
-IVs: 2 Atk
-- Substitute
-- Lovely Kiss
-- Ice Beam
-- Psychic
-
-Gengar @ Leftovers
-- Thunderbolt
-- Ice Punch
-- Dynamic Punch
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (Dragonite Balance) ===
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Reflect
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Explosion
-
-Dragonite @ Leftovers
-- Thunder
-- Ice Beam
-- Dynamic Punch
-- Thunder Wave
-
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Roar
-- Explosion
-
-Snorlax @ Leftovers
-- Rest
-- Belly Drum
-- Body Slam
-- Earthquake
-
-Heracross @ Leftovers
-- Rest
-- Sleep Talk
-- Megahorn
-- Seismic Toss
-
-
-=== [gen2ou] Lavos (Curse TTar Boom) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Explosion
-
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Roar
-- Explosion
-
-Gengar @ Leftovers
-- Thunderbolt
-- Ice Punch
-- Hypnosis
-- Explosion
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Double-Edge
-- Fire Blast
-
-Tyranitar @ Leftovers
-- Curse
-- Rock Slide
-- Roar
-- Pursuit
-
-
-=== [gen2ou] Lavos (Baitgar Vap) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Forretress @ Leftovers
-- Spikes
-- Rapid Spin
-- Toxic
-- Explosion
-
-Rhydon @ Leftovers
-- Curse
-- Earthquake
-- Rock Slide
-- Roar
-
-Vaporeon @ Leftovers
-- Rest
-- Sleep Talk
-- Growth
-- Surf
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Lovely Kiss
-- Double-Edge
-
-Gengar @ (No Item)
-- Thief
-- Thunderbolt
-- Ice Punch
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (Sandslash) ===
-
-Exeggutor @ Miracle Berry
-- Sleep Powder
-- Stun Spore
-- Psychic
-- Explosion
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Explosion
-
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Roar
-- Explosion
-
-Machamp @ Leftovers
-- Curse
-- Cross Chop
-- Rock Slide
-- Earthquake
-
-Snorlax @ Leftovers
-- Curse
-- Body Slam
-- Earthquake
-- Self-Destruct
-
-Sandslash @ Leftovers
-IVs: 26 Atk / 26 Def
-- Swords Dance
-- Earthquake
-- Rock Slide
-- Hidden Power [Bug]
-
-
-=== [gen2ou] Lavos (SD Tentacruel) ===
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Rapid Spin
-
-Skarmory @ Leftovers
-- Rest
-- Curse
-- Drill Peck
-- Whirlwind
-
-Tentacruel @ Leftovers
-- Substitute
-- Swords Dance
-- Surf
-- Sludge Bomb
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Lovely Kiss
-- Double-Edge
-
-Tyranitar @ Leftovers
-- Rock Slide
-- Pursuit
-- Roar
-- Fire Blast
-
-
-=== [gen2ou] Lavos (Present Blissey) ===
-
-Snorlax @ Leftovers
-- Rest
-- Lovely Kiss
-- Belly Drum
-- Return
-
-Starmie @ Leftovers
-- Surf
-- Psychic
-- Rapid Spin
-- Recover
-
-Meganium @ Leftovers
-- Reflect
-- Leech Seed
-- Body Slam
-- Synthesis
-
-Heracross @ Leftovers
-- Rest
-- Sleep Talk
-- Megahorn
-- Seismic Toss
-
-Blissey @ Leftovers
-- Present
-- Toxic
-- Heal Bell
-- Soft-Boiled
-
-Tyranitar @ Leftovers
-- Rest
-- Rock Slide
-- Pursuit
-- Roar
-
-
-=== [gen2ou] Lavos (Cleric Stall) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunderbolt
-
-Starmie @ Leftovers
-- Surf
-- Psychic
-- Rapid Spin
-- Recover
-
-Blissey @ Leftovers
-- Flamethrower
-- Heal Bell
-- Toxic
-- Soft-Boiled
-
-Meganium @ Leftovers
-- Reflect
-- Leech Seed
-- Toxic
-- Synthesis
-
-Snorlax @ Leftovers
-- Rest
-- Double-Edge
-- Toxic
-- Flamethrower
-
-Umbreon @ Leftovers
-- Charm
-- Pursuit
-- Toxic
-- Moonlight
-
-
-=== [gen2ou] Lavos (Alternate Double Dog) ===
-
-Raikou @ Leftovers
-- Rest
-- Toxic
-- Roar
-- Thunder
-
-Forretress @ Leftovers
-- Spikes
-- Rapid Spin
-- Giga Drain
-- Explosion
-
-Skarmory @ Leftovers
-- Rest
-- Curse
-- Drill Peck
-- Whirlwind
-
-Suicune @ Leftovers
-- Rest
-- Sleep Talk
-- Surf
-- Ice Beam
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Body Slam
-- Fire Blast
-
-Misdreavus @ (No Item)
-- Thief
-- Hypnosis
-- Thunder
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (PiloZam) ===
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Double-Edge
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Rapid Spin
-
-Skarmory @ Leftovers
-- Rest
-- Toxic
-- Drill Peck
-- Whirlwind
-
-Alakazam @ Leftovers
-- Psychic
-- Fire Punch
-- Encore
-- Recover
-
-Piloswine @ Leftovers
-- Rest
-- Sleep Talk
-- Ice Beam
-- Earthquake
-
-Misdreavus @ Leftovers
-- Thunder
-- Toxic
-- Pain Split
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (Spikeless Muk) ===
-
-Nidoking @ Leftovers
-- Lovely Kiss
-- Earthquake
-- Ice Beam
-- Thunder
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Muk @ Leftovers
-- Curse
-- Sludge Bomb
-- Fire Blast
-- Explosion
-
-Machamp @ Leftovers
-- Curse
-- Cross Chop
-- Rock Slide
-- Light Screen
-
-Snorlax @ Leftovers
-- Curse
-- Body Slam
-- Earthquake
-- Self-Destruct
-
-Gengar @ Leftovers
-- Thunderbolt
-- Ice Punch
-- Destiny Bond
-- Explosion
-
-
-=== [gen2ou] Lavos (Ancientpower) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-IVs: 14 HP / 28 Atk
-- Spikes
-- Surf
-- Hidden Power [Electric]
-- Explosion
-
-Steelix @ Leftovers
-- Body Slam
-- Earthquake
-- Roar
-- Explosion
-
-Exeggutor @ Leftovers
-- Sleep Powder
-- Giga Drain
-- Psychic
-- Explosion
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Body Slam
-- Earthquake
-
-Tyranitar @ Leftovers
-- Ancient Power
-- Earthquake
-- Dynamic Punch
-- Fire Blast
-
-
-=== [gen2ou] Lavos (Son of Sun) ===
-
-Exeggutor @ Leftovers
-- Stun Spore
-- Giga Drain
-- Psychic
-- Synthesis
-
-Forretress @ Leftovers
-- Spikes
-- Rapid Spin
-- Giga Drain
-- Explosion
-
-Umbreon @ Leftovers
-IVs: 2 Atk
-- Charm
-- Pursuit
-- Zap Cannon
-- Moonlight
-
-Entei @ Leftovers
-IVs: 6 HP / 24 Atk / 24 Def
-- Sunny Day
-- Fire Blast
-- Solar Beam
-- Hidden Power [Fighting]
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Lovely Kiss
-- Double-Edge
-
-Moltres @ Charcoal
-- Rest
-- Sleep Talk
-- Sunny Day
-- Fire Blast
-
-
-=== [gen2ou] Lavos (SubPass Vaporeon) ===
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Toxic
-- Explosion
-
-Steelix @ Leftovers
-- Body Slam
-- Earthquake
-- Roar
-- Explosion
-
-Jynx @ Leftovers
-- Substitute
-- Lovely Kiss
-- Ice Beam
-- Psychic
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Double-Edge
-- Earthquake
-
-Vaporeon @ Leftovers
-- Substitute
-- Baton Pass
-- Growth
-- Hydro Pump
-
-
-=== [gen2ou] Lavos (Articuno Stall) ===
-
-Raikou @ Leftovers
-IVs: 26 Def
-- Rest
-- Roar
-- Hidden Power [Ice]
-- Thunder
-
-Forretress @ Leftovers
-- Spikes
-- Rapid Spin
-- Giga Drain
-- Explosion
-
-Articuno @ Leftovers
-- Rest
-- Sleep Talk
-- Toxic
-- Ice Beam
-
-Meganium @ Leftovers
-- Reflect
-- Leech Seed
-- Razor Leaf
-- Synthesis
-
-Snorlax @ Leftovers
-- Rest
-- Curse
-- Double-Edge
-- Earthquake
-
-Misdreavus @ Leftovers
-- Thunder
-- Toxic
-- Pain Split
-- Destiny Bond
-
-
-=== [gen2ou] Lavos (Quad Special) ===
-
-Jolteon @ Leftovers
-IVs: 14 HP / 28 Atk / 26 Def
-- Growth
-- Baton Pass
-- Hidden Power [Water]
-- Thunder
-
-Jynx @ Leftovers
-- Substitute
-- Lovely Kiss
-- Ice Beam
-- Psychic
-
-Cloyster @ Leftovers
-- Spikes
-- Surf
-- Ice Beam
-- Explosion
-
-Zapdos @ Leftovers
-IVs: 26 Def
-- Rest
-- Sleep Talk
-- Hidden Power [Ice]
-- Thunder
-
-Snorlax @ Leftovers
-- Double-Edge
-- Earthquake
-- Fire Blast
-- Self-Destruct
-
-Alakazam @ Leftovers
-- Psychic
-- Fire Punch
-- Encore
-- Dynamic Punch
-
-
-=== [gen2ou] Borat (Showcase) ===
-
-Zapdos @ Leftovers
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
-- Thunder
-
-Cloyster @ Leftovers
-- Clamp
-- Explosion
-- Spikes
-- Surf
-
-Snorlax @ Leftovers
-- Curse
-- Double-Edge
-- Rest
-- Sleep Talk
-
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Explosion
-- Roar
-
-Vaporeon @ Leftovers
-- Growth
-- Hydro Pump
-- Rest
-- Sleep Talk
-
-Exeggutor @ Leftovers
-- Explosion
-- Giga Drain
-- Psychic
-- Sleep Powder
-
-
-=== [gen2ou] Borat (Example #2A) ===
-
-Raikou @ Leftovers
-- Reflect
-- Rest
-- Roar
-- Thunderbolt
-
-Marowak @ Thick Club
-- Earthquake
-- Rest
-- Rock Slide
-- Swords Dance
-
-Skarmory @ Leftovers
-- Curse
-- Drill Peck
-- Rest
-- Whirlwind
-
-Snorlax @ Leftovers
-- Belly Drum
-- Body Slam
-- Earthquake
-- Rest
-
-Suicune @ Leftovers
-- Ice Beam
-- Rest
-- Sleep Talk
-- Surf
-
-Miltank @ Leftovers
-- Body Slam
-- Growl
-- Heal Bell
-- Milk Drink
-
-
-=== [gen2ou] Borat (Example #2B) ===
-
-Tyranitar @ Leftovers
-- Crunch
-- Dynamicpunch
-- Pursuit
-- Thunderbolt
-
-Marowak @ Thick Club
-- Earthquake
-- Rest
-- Rock Slide
-- Swords Dance
-
-Skarmory @ (No Item)
-- Drill Peck
-- Rest
-- Thief
-- Whirlwind
-
-Snorlax @ Leftovers
-- Belly Drum
-- Body Slam
-- Curse
-- Rest
-
-Starmie @ Leftovers
-- Psychic
-- Rapid Spin
-- Recover
-- Surf
-
-Miltank @ Leftovers
-- Body Slam
-- Growl
-- Heal Bell
-- Milk Drink
-
-
-=== [gen2ou] Pokemon Professor (Pursuit Trapping Curselax) ===
-
-Cloyster @ Leftovers
-- Explosion
-- Spikes
-- Surf
-- Toxic
-
-Houndoom @ Leftovers
-- Crunch
-- Fire Blast
-- Pursuit
-- Sleep Talk
-
-Misdreavus @ Leftovers
-- Mean Look
-- Pain Split
-- Perish Song
-- Protect
-
-Skarmory @ Leftovers
-- Drill Peck
-- Rest
-- Toxic
-- Whirlwind
-
-Snorlax @ Leftovers
-- Curse
-- Double-Edge
-- Earthquake
-- Rest
-
-Starmie @ Leftovers
-- Rapid Spin
-- Recover
-- Surf
-- Reflect
-
-
-=== [gen2ou] goofball (Smeargle?!) ===
-
-Zapdos @ Leftovers
-- Drill Peck
-- Rest
-- Sleep Talk
-- Thunder
-
-Marowak @ Leftovers
-- Earthquake
-- Rest
-- Rock Slide
-- Sleep Talk
-
-Miltank @ Leftovers
-- Body Slam
-- Growl
-- Heal Bell
-- Milk Drink
-
-Rhydon @ Leftovers
-- Curse
-- Earthquake
-- Roar
-- Rock Slide
-
-Slowbro @ Leftovers
-- Psychic
-- Rest
-- Surf
-- Thunder Wave
-
-Smeargle @ Leftovers
-- Encore
-- Roar
-- Spikes
-- Spore
-
-
-=== [gen2ou] Borat (GSC Offense) ===
-
-Nidoking @ Leftovers
-- Earthquake
-- Ice Beam
-- Lovely Kiss
-- Thunder
-
-Dragonite @ Leftovers
-- Dynamic Punch
-- Ice Beam
-- Hidden Power [Flying]
-- Thunder
-
-Machamp @ Leftovers
-- Cross Chop
-- Earthquake
-- Hidden Power [Bug]
-- Rock Slide
-
-Marowak @ Leftovers
-- Earthquake
-- Hidden Power [Flying]
-- Rock Slide
-- Swords Dance
-
-Snorlax @ Leftovers
-- Double-Edge
-- Earthquake
-- Fire Blast
-- Self-Destruct
-
-Tyranitar @ Leftovers
-- Crunch
-- Dynamic Punch
-- Rock Slide
-- Surf
-
-
-=== [gen2ou] Borat (TurboDrumming) ===
-
-Nidoking @ Leftovers
-- Earthquake
-- Fire Blast
-- Ice Beam
-- Lovely Kiss
-
-Heracross @ Leftovers
-- Megahorn
-- Rest
-- Seismic Toss
-- Sleep Talk
-
-Raikou @ Leftovers
-- Crunch
-- Rest
-- Sleep Talk
-- Roar
-- Thunder
-
-Skarmory @ Leftovers
-- Drill Peck
-- Rest
-- Curse
-- Whirlwind
-
-Snorlax @ Leftovers
-- Belly Drum
-- Double-Edge
-- Earthquake
-- Rest
-
-Starmie @ Leftovers
-- Rapid Spin
-- Recover
-- Reflect
-- Surf
-
-
-=== [gen2ou] Borat (BellyLax & BellyFable) ===
-
-Nidoking @ Leftovers
-- Earthquake
-- Fire Blast
-- Ice Beam
-- Lovely Kiss
-
-Clefable @ Leftovers
-- Belly Drum
-- Encore
-- Moonlight
-- Return
-
-Snorlax @ Leftovers
-- Belly Drum
-- Double-Edge
-- Earthquake
-- Rest
-
-Starmie @ Leftovers
-- Rapid Spin
-- Recover
-- Reflect
-- Surf
-
-Tyranitar @ Leftovers
-- Crunch
-- Pursuit
-- Roar
-- Rock Slide
-
-Zapdos @ Leftovers
-- Drill Peck
-- Rest
-- Sleep Talk
-- Thunder
-
-
-=== [gen2ou] Borat (BellyLax & Growtheon) ===
-
-Gengar @ Leftovers
-- Destiny Bond
-- Explosion
-- Ice Punch
-- Thunderbolt
-
-Dragonite @ Leftovers
-- Dynamic Punch
-- Hidden Power [Flying]
-- Ice Beam
-- Thunder
-
-Exeggutor @ Leftovers
-- Explosion
-- Giga Drain
-- Psychic
-- Sleep Powder
-
-Snorlax @ Leftovers
-- Belly Drum
-- Double-Edge
-- Earthquake
-- Rest
-
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Explosion
-- Roar
-
-Vaporeon @ Leftovers
-- Acid Armor
-- Growth
-- Rest
-- Surf
-
-
 === [gen2ou] havoc (Toxic + Spikes + Roar) ===
 
-Alakazam @ Leftovers
-- Fire Punch
-- Psychic
-- Recover
-- Toxic
+Alakazam (M) @ Leftovers  
+- Fire Punch  
+- Psychic  
+- Recover  
+- Toxic  
 
-Cloyster @ Leftovers
-- Rapid Spin
-- Spikes
-- Surf
-- Toxic
-- Explosion
+Nidoking @ Leftovers  
+- Earthquake  
+- Ice Beam  
+- Roar  
+- Thunderbolt  
 
-Nidoking @ Leftovers
-- Earthquake
-- Ice Beam
-- Roar
-- Thunderbolt
+Cloyster (M) @ Leftovers  
+- Rapid Spin  
+- Spikes  
+- Surf  
+- Toxic  
 
-Steelix @ Leftovers
-- Earthquake
-- Explosion
-- Roar
-- Screech
+Zapdos @ Leftovers  
+- Drill Peck  
+- Rest  
+- Sleep Talk  
+- Thunderbolt  
 
-Suicune @ Leftovers
-- Rest
-- Roar
-- Surf
-- Toxic
+Steelix (M) @ Leftovers  
+- Earthquake  
+- Explosion  
+- Roar  
+- Screech  
 
-Zapdos @ Leftovers
-- Drill Peck
-- Rest
-- Sleep Talk
-- Thunderbolt
-
-
-=== [gen2ou] FM (No Snorlax) ===
-
-Dragonite @ Leftovers
-- Ice Beam
-- Reflect
-- Rest
-- Thunder
-
-Gengar @ Leftovers
-- Destiny Bond
-- Fire Punch
-- Hypnosis
-- Thunderbolt
-
-Heracross @ Leftovers
-- Earthquake
-- Megahorn
-- Rest
-- Sleep Talk
-
-Marowak @ Leftovers
-- Earthquake
-- Hidden Power [Bug]
-- Rock Slide
-- Swords Dance
-
-Umbreon @ Leftovers
-- Charm
-- Pursuit
-- Rest
-- Zap Cannon
-
-Tyranitar @ Leftovers
-- Crunch
-- Flamethrower
-- Rest
-- Rock Slide
-
-
-=== [gen2ou] Flameout (Standard) ===
-
-Dragonite @ Leftovers
-- Double-Edge
-- Dynamic Punch
-- Ice Beam
-- Thunder
-
-Heracross @ Leftovers
-- Megahorn
-- Rest
-- Seismic Toss
-- Sleep Talk
-
-Miltank @ Leftovers
-- Body Slam
-- Growl
-- Heal Bell
-- Milk Drink
-
-Raikou @ Leftovers
-- Crunch
-- Reflect
-- Rest
-- Thunderbolt
-
-Snorlax @ Leftovers
-- Belly Drum
-- Double-Edge
-- Earthquake
-- Rest
-
-Suicune @ Leftovers
-- Ice Beam
-- Rest
-- Roar
-- Surf
+Suicune @ Leftovers  
+- Rest  
+- Roar  
+- Surf  
+- Toxic  
 
 
 === [gen2ou] VIL (Explosion-heavy) ===
 
-Cloyster @ Leftovers
-- Clamp
-- Explosion
-- Ice Beam
-- Spikes
+Cloyster (M) @ Leftovers  
+- Clamp  
+- Explosion  
+- Ice Beam  
+- Spikes  
 
-Exeggutor @ Leftovers
-- Leech Seed
-- Psychic
-- Sleep Powder
-- Substitute
+Gengar (M) @ Leftovers  
+- Explosion  
+- Ice Punch  
+- Mean Look  
+- Thunderbolt  
 
-Gengar @ Leftovers
-- Explosion
-- Ice Punch
-- Mean Look
-- Thunderbolt
+Exeggutor (M) @ Leftovers  
+- Leech Seed  
+- Psychic  
+- Sleep Powder  
+- Substitute  
 
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Explosion
-- Roar
+Zapdos @ Leftovers  
+- Drill Peck  
+- Rest  
+- Sleep Talk  
+- Thunder  
 
-Suicune @ Leftovers
-- Rest
-- Roar
-- Surf
-- Toxic
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Explosion  
+- Roar  
 
-Zapdos @ Leftovers
-- Drill Peck
-- Rest
-- Sleep Talk
-- Thunder
+Suicune @ Leftovers  
+- Rest  
+- Roar  
+- Surf  
+- Toxic  
 
 
 === [gen2ou] M Dragon (Explosion) ===
 
-Cloyster @ Leftovers
-- Explosion
-- Spikes
-- Surf
-- Ice Beam
+Cloyster (M) @ Leftovers  
+- Explosion  
+- Spikes  
+- Surf  
+- Ice Beam  
 
-Zapdos @ Leftovers
-- Thunder
-- Hidden Power [Ice]
-- Rest
-- Sleep Talk
+Gengar (M) @ Leftovers  
+- Explosion  
+- Thunderbolt  
+- Ice Punch  
+- Dynamic Punch  
 
-Exeggutor @ Leftovers
-- Sleep Powder
-- Psychic
-- Giga Drain
-- Explosion
+Exeggutor (M) @ Leftovers  
+- Sleep Powder  
+- Psychic  
+- Giga Drain  
+- Explosion  
 
-Gengar @ Leftovers
-- Explosion
-- Thunderbolt
-- Ice Punch
-- DynamicPunch
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
 
-Snorlax @ Leftovers
-- Double-Edge
-- Earthquake
-- Fire Blast
-- Self-Destruct
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
 
-Steelix @ Leftovers
-- Curse
-- Earthquake
-- Explosion
-- Roar
-
-
-=== [gen2ou] M Dragon (BP) ===
-
-Smeargle @ Leftovers
-- Spore
-- Agility
-- Substitute
-- Baton Pass
-
-Snorlax @ Leftovers
-- Belly Drum
-- Earthquake
-- Lovely Kiss
-- Return
-
-Marowak @ Thick Club
-- Earthquake
-- Hidden Power [Flying]
-- Rock Slide
-- Swords Dance
-
-Machamp @ Leftovers
-- Cross Chop
-- Hidden Power [Bug]
-- Earthquake
-- Rock Slide
-
-Scizor @ Leftovers
-- Agility
-- Swords Dance
-- Hidden Power [Bug]
-- Baton Pass
-
-Jolteon @ Leftovers
-- Agility
-- Baton Pass
-- Hidden Power [Water]
-- Thunderbolt
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Explosion  
+- Roar  
 
 
-=== [gen2ou] M Dragon (BDlax stall) ===
+=== [gen2ou] Pokemon Professor (Pursuit Trapping Curselax) ===
 
-Raikou @ Leftovers
-- Thunderbolt
-- Reflect
-- Hidden Power [Water]
-- Rest
+Cloyster (M) @ Leftovers  
+- Explosion  
+- Spikes  
+- Surf  
+- Toxic  
 
-Skarmory @ Leftovers
-- Curse
-- Drill Peck
-- Rest
-- Whirlwind
+Starmie @ Leftovers  
+- Rapid Spin  
+- Recover  
+- Surf  
+- Reflect  
 
-Miltank @ Leftovers
-- Growl
-- Body Slam
-- Milk Drink
-- Heal Bell
+Snorlax (M) @ Leftovers  
+- Curse  
+- Double-Edge  
+- Earthquake  
+- Rest  
 
-Snorlax @ Leftovers
-- Belly Drum
-- Return
-- Lovely Kiss
-- Rest
+Misdreavus (M) @ Leftovers  
+- Mean Look  
+- Pain Split  
+- Perish Song  
+- Protect  
 
-Starmie @ Leftovers
-- Surf
-- Psychic
-- Rapid Spin
-- Recover
+Skarmory (M) @ Leftovers  
+- Drill Peck  
+- Rest  
+- Toxic  
+- Whirlwind  
 
-Tyranitar @ Leftovers
-- Curse
-- Rock Slide
-- Roar
-- Pursuit
+Houndoom (M) @ Leftovers  
+- Crunch  
+- Fire Blast  
+- Pursuit  
+- Sleep Talk  
 
 
-=== [gen2ou] M Dragon (Tentacruel) ===
+=== [gen2ou] gorgie. (Playoffs_RaikouSHuffle) ===
 
-Raikou @ Leftovers
-- Thunderbolt
-- Reflect
-- Roar
-- Rest
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Toxic  
+- Rapid Spin  
+- Spikes  
+- Surf  
 
-Skarmory @ Leftovers
-- Curse
-- Drill Peck
-- Rest
-- Whirlwind
+Machamp (M) @ Leftovers  
+- Curse  
+- Cross Chop  
+- Rest  
+- Sleep Talk  
 
-Cloyster @ Leftovers
-- Spikes
-- Toxic
-- Surf
-- Rapid Spin
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Return  
+- Lovely Kiss  
+- Rest  
 
-Snorlax @ Leftovers
-- Frustration
-- Flamethrower
-- Toxic
-- Rest
+Umbreon (M) @ Leftovers  
+- Charm  
+- Pursuit  
+- Rest  
+- Toxic  
 
-Tentacruel @ Leftovers
-- Swords Dance
-- Sludge Bomb
-- Hydro Pump
-- Substitute
+Skarmory (M) @ Leftovers  
+- Curse  
+- Rest  
+- Drill Peck  
+- Whirlwind  
 
-Tyranitar @ Leftovers
-- Curse
-- Rock Slide
-- Pursuit/Rest
-- Roar
+Raikou @ Leftovers  
+- Reflect  
+- Rest  
+- Roar  
+- Thunderbolt  
+
+
+=== [gen2ou] Flameout (Standard) ===
+
+Dragonite (M) @ Leftovers  
+- Double-Edge  
+- Dynamic Punch  
+- Ice Beam  
+- Thunder  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Double-Edge  
+- Earthquake  
+- Rest  
+
+Heracross (M) @ Leftovers  
+- Megahorn  
+- Rest  
+- Seismic Toss  
+- Sleep Talk  
+
+Miltank @ Leftovers  
+- Body Slam  
+- Growl  
+- Heal Bell  
+- Milk Drink  
+
+Raikou @ Leftovers  
+- Crunch  
+- Reflect  
+- Rest  
+- Thunderbolt  
+
+Suicune @ Leftovers  
+- Ice Beam  
+- Rest  
+- Roar  
+- Surf  
+
+
+=== [gen2ou] FM (No Snorlax) ===
+
+Dragonite (M) @ Leftovers  
+- Ice Beam  
+- Reflect  
+- Rest  
+- Thunder  
+
+Gengar (M) @ Leftovers  
+- Destiny Bond  
+- Fire Punch  
+- Hypnosis  
+- Thunderbolt  
+
+Marowak (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Earthquake  
+- Hidden Power [Bug]  
+- Rock Slide  
+- Swords Dance  
+
+Umbreon (M) @ Leftovers  
+- Charm  
+- Pursuit  
+- Rest  
+- Zap Cannon  
+
+Heracross (M) @ Leftovers  
+- Earthquake  
+- Megahorn  
+- Rest  
+- Sleep Talk  
+
+Tyranitar (M) @ Leftovers  
+- Crunch  
+- Flamethrower  
+- Rest  
+- Rock Slide  
+
+
+=== [gen2ou] Nat (Balance) ===
+
+Exeggutor (M) @ Leftovers  
+- Psychic  
+- Giga Drain  
+- Sleep Powder  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+
+Forretress (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Spikes  
+- Hidden Power [Bug]  
+- Rapid Spin  
+- Explosion  
+
+Steelix (M) @ Leftovers  
+- Earthquake  
+- Curse  
+- Roar  
+- Rock Slide  
+
+Suicune @ Leftovers  
+- Surf  
+- Toxic  
+- Roar  
+- Rest  
+
+
+=== [gen2ou] gorgie. (GrowthJOLT) ===
+
+Exeggutor (M) @ Leftovers  
+- Psychic  
+- Stun Spore  
+- Giga Drain  
+- Explosion  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Explosion  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+
+Jolteon (M) @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Growth  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Roar  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Body Slam  
+- Rest  
+- Earthquake  
+
+Dragonite (M) @ Leftovers  
+- Haze  
+- Rest  
+- Reflect  
+- Sleep Talk  
+
+Quagsire (M) @ Leftovers  
+IVs: 22 HP / 26 Atk / 24 Def  
+- Earthquake  
+- Belly Drum  
+- Hidden Power [Rock]  
+- Rest  
+
+
+=== [gen2ou] Lavos (Charizard) ===
+
+Exeggutor (M) @ Leftovers  
+- Stun Spore  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Charizard (M) @ Leftovers  
+- Belly Drum  
+- Rock Slide  
+- Earthquake  
+- Fire Blast  
+
+Rhydon (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Rock Slide  
+- Roar  
+
+Starmie @ Leftovers  
+- Surf  
+- Thunder Wave  
+- Rapid Spin  
+- Recover  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Belly Drum  
+- Body Slam  
+- Earthquake  
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+
+=== [gen2ou] Lavos (Son of Sun) ===
+
+Exeggutor (M) @ Leftovers  
+- Stun Spore  
+- Giga Drain  
+- Psychic  
+- Synthesis  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Moltres @ Charcoal  
+- Rest  
+- Sleep Talk  
+- Sunny Day  
+- Fire Blast  
+
+Umbreon (F) @ Leftovers  
+IVs: 2 Atk  
+- Charm  
+- Pursuit  
+- Zap Cannon  
+- Moonlight  
+
+Forretress (M) @ Leftovers  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+Entei @ Leftovers  
+IVs: 6 HP / 24 Atk / 24 Def  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Hidden Power [Fighting]  
+
+
+=== [gen2ou] Lavos (Sandslash) ===
+
+Exeggutor (M) @ Miracle Berry  
+- Sleep Powder  
+- Stun Spore  
+- Psychic  
+- Explosion  
+
+Sandslash (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]  
+
+Machamp (M) @ Leftovers  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Earthquake  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+
+=== [gen2ou] Borat (BellyLax & Growtheon) ===
+
+Gengar (M) @ Leftovers  
+- Destiny Bond  
+- Explosion  
+- Ice Punch  
+- Thunderbolt  
+
+Exeggutor (M) @ Leftovers  
+- Explosion  
+- Giga Drain  
+- Psychic  
+- Sleep Powder  
+
+Vaporeon (M) @ Leftovers  
+- Acid Armor  
+- Growth  
+- Rest  
+- Surf  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Double-Edge  
+- Earthquake  
+- Rest  
+
+Dragonite (M) @ Leftovers  
+IVs: 14 HP / 24 Atk / 26 Def  
+- Dynamic Punch  
+- Hidden Power [Flying]  
+- Ice Beam  
+- Thunder  
+
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Explosion  
+- Roar  
 
 
 === [gen2ou] Conflict & MoP (SPL2) ===
 
-Gengar @ Leftovers
-- Explosion
-- Fire Punch/Ice Punch
-- Mean Look
-- Thunderbolt
+Gengar (M) @ Leftovers  
+- Explosion  
+- Fire Punch  
+- Mean Look  
+- Thunderbolt  
 
-Snorlax @ Leftovers
-- Double-Edge
-- Fire Blast
-- Rest
-- Self-Destruct
+Cloyster (M) @ Leftovers  
+- Explosion  
+- Surf  
+- Icy Wind  
+- Spikes  
 
-Exeggutor @ Leftovers
-- Explosion
-- Hidden Power [Fire]
-- Psychic
-- Sleep Powder
+Exeggutor (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Explosion  
+- Hidden Power [Fire]  
+- Psychic  
+- Sleep Powder  
 
-Cloyster @ Leftovers
-- Explosion
-- Surf
-- Icy Wind
-- Spikes
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Fire Blast  
+- Rest  
+- Self-Destruct  
 
-Tyranitar @ Leftovers
-- Curse
-- Pursuit
-- Roar
-- Rock Slide
+Espeon (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Growth  
+- Hidden Power [Fire]  
+- Morning Sun  
+- Psychic  
 
-Espeon @ Leftovers
-- Growth
-- Hidden Power [Fire]
-- Morning Sun
-- Psychic
+Tyranitar (M) @ Leftovers  
+- Curse  
+- Pursuit  
+- Roar  
+- Rock Slide  
+
+
+=== [gen2ou] Lavos (Quad Special) ===
+
+Jolteon (M) @ Leftovers  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Growth  
+- Baton Pass  
+- Hidden Power [Water]  
+- Thunder  
+
+Alakazam (M) @ Leftovers  
+- Psychic  
+- Fire Punch  
+- Encore  
+- Dynamic Punch  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Ice Beam  
+- Explosion  
+
+Jynx @ Leftovers  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+
+=== [gen2ou] gorgie. (Modified_Thieving_Bandits) ===
+
+Nidoking  
+- Earthquake  
+- Ice Beam  
+- Thunder  
+- Thief  
+
+Cloyster (M) @ Leftovers  
+- Surf  
+- Spikes  
+- Toxic  
+- Explosion  
+
+Gengar (M)  
+- Thief  
+- Explosion  
+- Thunderbolt  
+- Ice Punch  
+
+Jynx  
+- Lovely Kiss  
+- Nightmare  
+- Ice Beam  
+- Thief  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Rest  
+- Sleep Talk  
+- Double-Edge  
+
+Zapdos @ Magnet  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Roar  
+- Hidden Power [Ice]  
+- Toxic  
+
+
+=== [gen2ou] Lavos (Tentacruel No Phazer) ===
+
+Nidoking  
+- Thief  
+- Lovely Kiss  
+- Earthquake  
+- Ice Beam  
+
+Tentacruel (M) @ Leftovers  
+- Substitute  
+- Swords Dance  
+- Hydro Pump  
+- Sludge Bomb  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Screech  
+- Clamp  
+- Explosion  
+
+Exeggutor (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Giga Drain  
+- Psychic  
+- Hidden Power [Fire]  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+
+=== [gen2ou] Borat (BellyLax & BellyFable) ===
+
+Nidoking @ Leftovers  
+- Earthquake  
+- Fire Blast  
+- Ice Beam  
+- Lovely Kiss  
+
+Clefable (M) @ Leftovers  
+- Belly Drum  
+- Encore  
+- Moonlight  
+- Return  
+
+Starmie @ Leftovers  
+- Rapid Spin  
+- Recover  
+- Reflect  
+- Surf  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Double-Edge  
+- Earthquake  
+- Rest  
+
+Zapdos @ Leftovers  
+- Drill Peck  
+- Rest  
+- Sleep Talk  
+- Thunder  
+
+Tyranitar (M) @ Leftovers  
+- Crunch  
+- Pursuit  
+- Roar  
+- Rock Slide  
+
+
+=== [gen2ou] Borat (TurboDrumming) ===
+
+Nidoking @ Leftovers  
+- Earthquake  
+- Fire Blast  
+- Ice Beam  
+- Lovely Kiss  
+
+Starmie @ Leftovers  
+- Rapid Spin  
+- Recover  
+- Reflect  
+- Surf  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Double-Edge  
+- Earthquake  
+- Rest  
+
+Heracross (M) @ Leftovers  
+- Megahorn  
+- Rest  
+- Seismic Toss  
+- Sleep Talk  
+
+Skarmory (M) @ Leftovers  
+- Drill Peck  
+- Rest  
+- Curse  
+- Whirlwind  
+
+Raikou @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Roar  
+- Thunder  
+
+
+=== [gen2ou] Borat (GSC Offense) ===
+
+Nidoking @ Leftovers  
+- Earthquake  
+- Ice Beam  
+- Lovely Kiss  
+- Thunder  
+
+Machamp (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Cross Chop  
+- Earthquake  
+- Hidden Power [Bug]  
+- Rock Slide  
+
+Marowak (M) @ Leftovers  
+IVs: 14 HP / 24 Atk / 26 Def  
+- Earthquake  
+- Hidden Power [Flying]  
+- Rock Slide  
+- Swords Dance  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
+
+Dragonite (M) @ Leftovers  
+IVs: 14 HP / 24 Atk / 26 Def  
+- Dynamic Punch  
+- Ice Beam  
+- Hidden Power [Flying]  
+- Thunder  
+
+Tyranitar (M) @ Leftovers  
+- Crunch  
+- Dynamic Punch  
+- Rock Slide  
+- Surf  
+
+
+=== [gen2ou] gorgie. (DRUMKING) ===
+
+Nidoking @ Leftovers  
+- Earthquake  
+- Lovely Kiss  
+- Ice Beam  
+- Flamethrower  
+
+Charizard (M) @ Leftovers  
+- Belly Drum  
+- Fire Blast  
+- Earthquake  
+- Rock Slide  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Toxic  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Rest  
+- Curse  
+- Sleep Talk  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Roar  
+- Thunder Wave  
+
+Umbreon (M) @ Leftovers  
+- Pursuit  
+- Toxic  
+- Charm  
+- Moonlight  
+
+
+=== [gen2ou] Jorgen (Offense) ===
+
+Nidoking @ Leftovers  
+- Earthquake  
+- Lovely Kiss  
+- Ice Beam  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+- Surf  
+- Toxic  
+- Spikes  
+- Explosion  
+
+Exeggutor (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Psychic  
+- Giga Drain  
+- Explosion  
+- Hidden Power [Fire]  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+
+Tyranitar (M) @ Leftovers  
+- Rock Slide  
+- Crunch  
+- Pursuit  
+- Roar  
+
+
+=== [gen2ou] Nat (Growth Vaporeon) ===
+
+Nidoking @ Leftovers  
+- Earthquake  
+- Lovely Kiss  
+- Ice Beam  
+- Thunder  
+
+Vaporeon (M) @ Leftovers  
+- Surf  
+- Growth  
+- Rest  
+- Sleep Talk  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Lovely Kiss  
+- Self-Destruct  
+- Fire Blast  
+
+Forretress (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Spikes  
+- Hidden Power [Bug]  
+- Rapid Spin  
+- Explosion  
+
+Skarmory (M) @ Leftovers  
+- Whirlwind  
+- Drill Peck  
+- Rest  
+- Curse  
+
+Raikou @ Leftovers  
+- Thunder  
+- Roar  
+- Reflect  
+- Rest  
+
+
+=== [gen2ou] Lavos (NidoChamp) ===
+
+Nidoking @ Leftovers  
+- Lovely Kiss  
+- Earthquake  
+- Ice Beam  
+- Thunder  
+
+Machamp (M) @ Leftovers  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Earthquake  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Toxic  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Curse  
+- Body Slam  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Tyranitar (M) @ Leftovers  
+- Rock Slide  
+- Pursuit  
+- Roar  
+- Fire Blast  
+
+
+=== [gen2ou] Lavos (Spikeless Muk) ===
+
+Nidoking @ Leftovers  
+- Lovely Kiss  
+- Earthquake  
+- Ice Beam  
+- Thunder  
+
+Machamp (M) @ Leftovers  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Light Screen  
+
+Muk (M) @ Leftovers  
+- Curse  
+- Sludge Bomb  
+- Fire Blast  
+- Explosion  
+
+Gengar (M) @ Leftovers  
+- Thunderbolt  
+- Ice Punch  
+- Destiny Bond  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+
+=== [gen2ou] Borat (Example #2A) ===
+
+Raikou @ Leftovers  
+- Reflect  
+- Rest  
+- Roar  
+- Thunderbolt  
+
+Marowak (M) @ Thick Club  
+IVs: 26 Atk  
+- Earthquake  
+- Rest  
+- Rock Slide  
+- Swords Dance  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Body Slam  
+- Earthquake  
+- Rest  
+
+Skarmory (M) @ Leftovers  
+- Curse  
+- Drill Peck  
+- Rest  
+- Whirlwind  
+
+Miltank @ Leftovers  
+- Body Slam  
+- Growl  
+- Heal Bell  
+- Milk Drink  
+
+Suicune @ Leftovers  
+- Ice Beam  
+- Rest  
+- Sleep Talk  
+- Surf  
+
+
+=== [gen2ou] Lavos (Dragonite Balance) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Reflect  
+- Hidden Power [Ice]  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Belly Drum  
+- Body Slam  
+- Earthquake  
+
+Dragonite (M) @ Leftovers  
+- Thunder  
+- Ice Beam  
+- Dynamic Punch  
+- Thunder Wave  
+
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Heracross (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Megahorn  
+- Seismic Toss  
+
+
+=== [gen2ou] Lavos (Articuno Stall) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Roar  
+- Hidden Power [Ice]  
+- Thunder  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Double-Edge  
+- Earthquake  
+
+Articuno @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Toxic  
+- Ice Beam  
+
+Meganium (M) @ Leftovers  
+- Reflect  
+- Leech Seed  
+- Razor Leaf  
+- Synthesis  
+
+Misdreavus (M) @ Leftovers  
+- Thunder  
+- Toxic  
+- Pain Split  
+- Destiny Bond  
+
+Forretress (M) @ Leftovers  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+
+=== [gen2ou] Lavos (Spin Tentacruel) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Roar  
+- Hidden Power [Ice]  
+- Thunder  
+
+Tentacruel (M) @ Leftovers  
+- Protect  
+- Rapid Spin  
+- Surf  
+- Sludge Bomb  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Return  
+
+Heracross (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Megahorn  
+- Seismic Toss  
+
+Skarmory (M)  
+- Rest  
+- Thief  
+- Toxic  
+- Whirlwind  
+
+Tyranitar (M) @ Leftovers  
+- Rock Slide  
+- Earthquake  
+- Pursuit  
+- Fire Blast  
+
+
+=== [gen2ou] gorgie. (STALL) ===
+
+Raikou @ Leftovers  
+- Rest  
+- Roar  
+- Thunderbolt  
+- Toxic  
+
+Cloyster (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 28 Def  
+- Hidden Power [Grass]  
+- Spikes  
+- Surf  
+- Toxic  
+
+Starmie @ Leftovers  
+- Rapid Spin  
+- Recover  
+- Surf  
+- Toxic  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Flamethrower  
+- Return  
+- Rest  
+
+Meganium (M) @ Leftovers  
+- Leech Seed  
+- Reflect  
+- Razor Leaf  
+- Synthesis  
+
+Skarmory (M) @ Leftovers  
+- Attract  
+- Rest  
+- Sleep Talk  
+- Whirlwind  
+
+
+=== [gen2ou] Lavos (2x Electric TTar) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Forretress (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Hidden Power [Fire]  
+
+Skarmory (M)  
+- Rest  
+- Thief  
+- Drill Peck  
+- Whirlwind  
+
+Tyranitar (M) @ Leftovers  
+IVs: 22 HP / 26 Atk / 24 Def  
+- Rest  
+- Curse  
+- Rock Slide  
+- Roar  
+
+
+=== [gen2ou] Lavos (SD Tentacruel) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Tentacruel (M) @ Leftovers  
+- Substitute  
+- Swords Dance  
+- Surf  
+- Sludge Bomb  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Rapid Spin  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Skarmory (M) @ Leftovers  
+- Rest  
+- Curse  
+- Drill Peck  
+- Whirlwind  
+
+Tyranitar (M) @ Leftovers  
+- Rock Slide  
+- Pursuit  
+- Roar  
+- Fire Blast  
+
+
+=== [gen2ou] gorgie. (SMEARGLE TTRAP) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Roar  
+- Hidden Power [Ice]  
+- Rest  
+
+Machamp (M) @ Leftovers  
+- Cross Chop  
+- Curse  
+- Rest  
+- Earthquake  
+
+Vaporeon (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Surf  
+- Growth  
+
+Snorlax (M) @ Leftovers  
+- Body Slam  
+- Belly Drum  
+- Earthquake  
+- Rest  
+
+Heracross (M) @ Leftovers  
+IVs: 14 HP / 24 Atk / 26 Def  
+- Curse  
+- Megahorn  
+- Rest  
+- Hidden Power [Flying]  
+
+Smeargle (M) @ Leftovers  
+- Spider Web  
+- Baton Pass  
+- Protect  
+- Disable  
+
+
+=== [gen2ou] M Dragon (BDlax stall) ===
+
+Raikou @ Leftovers  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Thunderbolt  
+- Reflect  
+- Hidden Power [Water]  
+- Rest  
+
+Starmie @ Leftovers  
+- Surf  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Return  
+- Lovely Kiss  
+- Rest  
+
+Skarmory (M) @ Leftovers  
+- Curse  
+- Drill Peck  
+- Rest  
+- Whirlwind  
+
+Miltank @ Leftovers  
+- Growl  
+- Body Slam  
+- Milk Drink  
+- Heal Bell  
+
+Tyranitar (M) @ Leftovers  
+- Curse  
+- Rock Slide  
+- Roar  
+- Pursuit  
+
+
+=== [gen2ou] Mr. 378 (GSC Stall) ===
+
+Raikou @ Leftovers  
+- Thunderbolt  
+- Reflect  
+- Roar  
+- Rest  
+
+Starmie @ Leftovers  
+- Surf  
+- Toxic  
+- Rapid Spin  
+- Recover  
+
+Snorlax (M) @ Leftovers  
+- Return  
+- Lovely Kiss  
+- Belly Drum  
+- Rest  
+
+Skarmory (M) @ Leftovers  
+- Drill Peck  
+- Curse  
+- Whirlwind  
+- Rest  
+
+Miltank @ Leftovers  
+- Body Slam  
+- Heal Bell  
+- Growl  
+- Milk Drink  
+
+Suicune @ Leftovers  
+- Surf  
+- Ice Beam  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen2ou] M Dragon (Tentacruel) ===
+
+Raikou @ Leftovers  
+- Thunderbolt  
+- Reflect  
+- Roar  
+- Rest  
+
+Tentacruel (M) @ Leftovers  
+- Swords Dance  
+- Sludge Bomb  
+- Hydro Pump  
+- Substitute  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Toxic  
+- Surf  
+- Rapid Spin  
+
+Snorlax (M) @ Leftovers  
+Happiness: 0  
+- Frustration  
+- Flamethrower  
+- Toxic  
+- Rest  
+
+Skarmory (M) @ Leftovers  
+- Curse  
+- Drill Peck  
+- Rest  
+- Whirlwind  
+
+Tyranitar (M) @ Leftovers  
+- Curse  
+- Rock Slide  
+- Pursuit  
+- Roar  
+
+
+=== [gen2ou] gorgie. (3AtkLax_Missy_HERA) ===
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunderbolt  
+- Rest  
+- Hidden Power [Ice]  
+- Roar  
+
+Cloyster (M) @ Leftovers  
+- Surf  
+- Spikes  
+- Toxic  
+- Explosion  
+
+Starmie @ Leftovers  
+- Rapid Spin  
+- Recover  
+- Psychic  
+- Toxic  
+
+Snorlax (M) @ Leftovers  
+- Double-Edge  
+- Earthquake  
+- Flamethrower  
+- Rest  
+
+Misdreavus (M) @ Leftovers  
+- Mean Look  
+- Pain Split  
+- Perish Song  
+- Protect  
+
+Heracross (M) @ Leftovers  
+- Megahorn  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen2ou] M Dragon (BP) ===
+
+Smeargle (M) @ Leftovers  
+- Spore  
+- Agility  
+- Substitute  
+- Baton Pass  
+
+Machamp (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Cross Chop  
+- Hidden Power [Bug]  
+- Earthquake  
+- Rock Slide  
+
+Marowak (M) @ Thick Club  
+IVs: 14 HP / 26 Atk / 26 Def  
+- Earthquake  
+- Hidden Power [Flying]  
+- Rock Slide  
+- Swords Dance  
+
+Jolteon (M) @ Leftovers  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Agility  
+- Baton Pass  
+- Hidden Power [Water]  
+- Thunderbolt  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Earthquake  
+- Lovely Kiss  
+- Return  
+
+Scizor (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Agility  
+- Swords Dance  
+- Hidden Power [Bug]  
+- Baton Pass  
+
+
+=== [gen2ou] Lavos (Bait Smeargle Offense) ===
+
+Smeargle (M) @ Miracle Berry  
+- Spore  
+- Spikes  
+- Mirror Coat  
+- Destiny Bond  
+
+Machamp (M) @ Leftovers  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Earthquake  
+
+Gengar (M) @ Leftovers  
+- Thunder  
+- Ice Punch  
+- Dynamic Punch  
+- Destiny Bond  
+
+Exeggutor (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Giga Drain  
+- Psychic  
+- Hidden Power [Fire]  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+
+=== [gen2ou] Fear (SPL9#2) ===
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Double-Edge  
+- Sleep Talk  
+- Rest  
+
+Misdreavus (M) @ Leftovers  
+- Toxic  
+- Pain Split  
+- Psychic  
+- Thunderbolt  
+
+Forretress (M) @ Leftovers  
+IVs: 22 HP / 26 Atk / 28 Def  
+- Toxic  
+- Spikes  
+- Rapid Spin  
+- Hidden Power [Ghost]  
+
+Skarmory (M) @ Leftovers  
+- Rest  
+- Toxic  
+- Drill Peck  
+- Whirlwind  
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Hidden Power [Ice]  
+- Thunder  
+- Sleep Talk  
+
+Tyranitar (M) @ Leftovers  
+- Earthquake  
+- Roar  
+- Screech  
+- Rock Slide  
+
+
+=== [gen2ou] gorgie. (BATSHITAERO) ===
+
+Snorlax (M) @ Leftovers  
+- Fire Blast  
+- Double-Edge  
+- Curse  
+- Self-Destruct  
+
+Nidoking @ Leftovers  
+- Lovely Kiss  
+- Earthquake  
+- Ice Beam  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Explosion  
+- Hidden Power [Electric]  
+
+Gengar (M) @ Leftovers  
+- Destiny Bond  
+- Ice Punch  
+- Thunderbolt  
+- Explosion  
+
+Aerodactyl (M) @ Berserk Gene  
+IVs: 22 HP / 26 Atk / 24 Def  
+- Hidden Power [Rock]  
+- Wing Attack  
+- Earthquake  
+- Double-Edge  
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen2ou] Lavos (Charizard Offense) ===
+
+Snorlax (M) @ Leftovers  
+- Lovely Kiss  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+Charizard (M) @ Miracle Berry  
+- Belly Drum  
+- Rock Slide  
+- Earthquake  
+- Fire Blast  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Icy Wind  
+- Explosion  
+
+Exeggutor (M) @ Leftovers  
+- Stun Spore  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Zapdos @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Light Screen  
+- Thunder  
+
+Steelix (M) @ Leftovers  
+- Body Slam  
+- Earthquake  
+- Roar  
+- Explosion  
+
+
+=== [gen2ou] Lavos (dice Triple Normal Stall) ===
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Belly Drum  
+- Body Slam  
+- Earthquake  
+
+Starmie @ Leftovers  
+- Surf  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Skarmory (M) @ Leftovers  
+- Rest  
+- Curse  
+- Drill Peck  
+- Whirlwind  
+
+Miltank @ Leftovers  
+- Body Slam  
+- Growl  
+- Heal Bell  
+- Milk Drink  
+
+Blissey @ Leftovers  
+- Present  
+- Sing  
+- Ice Beam  
+- Soft-Boiled  
+
+Suicune @ Leftovers  
+IVs: 2 Atk  
+- Rest  
+- Sleep Talk  
+- Surf  
+- Toxic  
+
+
+=== [gen2ou] Lavos (PiloZam) ===
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Double-Edge  
+- Thunder  
+
+Alakazam (M) @ Leftovers  
+- Psychic  
+- Fire Punch  
+- Encore  
+- Recover  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Rapid Spin  
+
+Misdreavus (M) @ Leftovers  
+- Thunder  
+- Toxic  
+- Pain Split  
+- Destiny Bond  
+
+Piloswine (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Ice Beam  
+- Earthquake  
+
+Skarmory (M) @ Leftovers  
+- Rest  
+- Toxic  
+- Drill Peck  
+- Whirlwind  
+
+
+=== [gen2ou] Lavos (Ice Spam) ===
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Double-Edge  
+- Thunder  
+
+Gengar (M) @ Leftovers  
+- Thunderbolt  
+- Ice Punch  
+- Dynamic Punch  
+- Destiny Bond  
+
+Jynx @ Leftovers  
+IVs: 2 Atk  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Forretress (M) @ Leftovers  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+Piloswine (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Ice Beam  
+- Earthquake  
+
+Skarmory (M) @ Leftovers  
+- Rest  
+- Curse  
+- Drill Peck  
+- Whirlwind  
+
+
+=== [gen2ou] Lavos (Present Blissey) ===
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Lovely Kiss  
+- Belly Drum  
+- Return  
+
+Starmie @ Leftovers  
+- Surf  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Meganium (M) @ Leftovers  
+- Reflect  
+- Leech Seed  
+- Body Slam  
+- Synthesis  
+
+Heracross (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Megahorn  
+- Seismic Toss  
+
+Blissey @ Leftovers  
+- Present  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+Tyranitar (M) @ Leftovers  
+- Rest  
+- Rock Slide  
+- Pursuit  
+- Roar  
+
+
+=== [gen2ou] Lavos (Sunny Day) ===
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Curse  
+- Double-Edge  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Clamp  
+- Explosion  
+
+Exeggutor (M) @ Leftovers  
+- Sleep Powder  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Houndoom (M) @ Charcoal  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Counter  
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Roar  
+- Hidden Power [Ice]  
+- Thunderbolt  
+
+Entei @ Leftovers  
+IVs: 6 HP / 24 Atk / 24 Def  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Hidden Power [Fighting]  
+
+
+=== [gen2ou] Fear (SPL9#1) ===
+
+Snorlax (M) @ Leftovers  
+- Self-Destruct  
+- Fire Blast  
+- Double-Edge  
+- Rest  
+
+Gengar (M) @ Leftovers  
+- Dynamic Punch  
+- Explosion  
+- Ice Punch  
+- Thunder  
+
+Kangaskhan @ Leftovers  
+- Curse  
+- Substitute  
+- Return  
+- Roar  
+
+Forretress (M) @ Leftovers  
+- Explosion  
+- Spikes  
+- Protect  
+- Rapid Spin  
+
+Skarmory (M) @ Leftovers  
+- Rest  
+- Whirlwind  
+- Drill Peck  
+- Toxic  
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+
+
+=== [gen2ou] Borat (Example #2B) ===
+
+Tyranitar (M) @ Leftovers  
+- Crunch  
+- Dynamic Punch  
+- Pursuit  
+- Thunderbolt  
+
+Marowak (M) @ Thick Club  
+IVs: 26 Atk  
+- Earthquake  
+- Rest  
+- Rock Slide  
+- Swords Dance  
+
+Starmie @ Leftovers  
+- Psychic  
+- Rapid Spin  
+- Recover  
+- Surf  
+
+Snorlax (M) @ Leftovers  
+- Belly Drum  
+- Body Slam  
+- Curse  
+- Rest  
+
+Skarmory (M)  
+- Drill Peck  
+- Rest  
+- Thief  
+- Whirlwind  
+
+Miltank @ Leftovers  
+- Body Slam  
+- Growl  
+- Heal Bell  
+- Milk Drink  
+
+
+=== [gen2ou] Lavos (Reversal) ===
+
+Tyranitar (M) @ Leftovers  
+- Rock Slide  
+- Pursuit  
+- Dynamic Punch  
+- Fire Blast  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Ice Beam  
+- Explosion  
+
+Exeggutor (M) @ Leftovers  
+- Sleep Powder  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Heracross (M) @ Miracle Berry  
+- Endure  
+- Reversal  
+- Megahorn  
+- Seismic Toss  
+
+
+=== [gen2ou] goofball (Smeargle?!) ===
+
+Zapdos @ Leftovers  
+- Drill Peck  
+- Rest  
+- Sleep Talk  
+- Thunder  
+
+Slowbro (M) @ Leftovers  
+- Psychic  
+- Rest  
+- Surf  
+- Thunder Wave  
+
+Marowak (M) @ Leftovers  
+- Earthquake  
+- Rest  
+- Rock Slide  
+- Sleep Talk  
+
+Rhydon (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Roar  
+- Rock Slide  
+
+Smeargle (M) @ Leftovers  
+- Encore  
+- Roar  
+- Spikes  
+- Spore  
+
+Miltank @ Leftovers  
+- Body Slam  
+- Growl  
+- Heal Bell  
+- Milk Drink  
+
+
+=== [gen2ou] Borat (Showcase) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+- Clamp  
+- Explosion  
+- Spikes  
+- Surf  
+
+Exeggutor (M) @ Leftovers  
+- Explosion  
+- Giga Drain  
+- Psychic  
+- Sleep Powder  
+
+Vaporeon (M) @ Leftovers  
+- Growth  
+- Hydro Pump  
+- Rest  
+- Sleep Talk  
+
+Snorlax (M) @ Leftovers  
+- Curse  
+- Double-Edge  
+- Rest  
+- Sleep Talk  
+
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Explosion  
+- Roar  
+
+
+=== [gen2ou] gorgie. (OPERATIONBOOMELECWALLS) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+- Thunder  
+
+Gengar (M) @ Leftovers  
+- Destiny Bond  
+- Perish Song  
+- Mean Look  
+- Protect  
+
+Exeggutor (M) @ Leftovers  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Explosion  
+- Giga Drain  
+- Hidden Power [Fire]  
+- Psychic  
+
+Vaporeon (M) @ Leftovers  
+- Growth  
+- Rest  
+- Acid Armor  
+- Surf  
+
+Houndoom (M) @ Miracle Berry  
+- Pursuit  
+- Fire Blast  
+- Crunch  
+- Thief  
+
+Raikou @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Hidden Power [Ice]  
+- Rest  
+- Roar  
+- Thunder  
+
+
+=== [gen2ou] Lavos (Ancientpower) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+
+Exeggutor (M) @ Leftovers  
+- Sleep Powder  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+Steelix (M) @ Leftovers  
+- Body Slam  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Tyranitar (M) @ Leftovers  
+- Ancient Power  
+- Earthquake  
+- Dynamic Punch  
+- Fire Blast  
+
+
+=== [gen2ou] Lavos (Jynx Boom Offense) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+
+Gengar (M) @ Leftovers  
+- Thunderbolt  
+- Ice Punch  
+- Dynamic Punch  
+- Destiny Bond  
+
+Jynx @ Leftovers  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+Steelix (M) @ Leftovers  
+- Body Slam  
+- Earthquake  
+- Roar  
+- Explosion  
+
+
+=== [gen2ou] Lavos (Curse TTar Boom) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+
+Gengar (M) @ Leftovers  
+- Thunderbolt  
+- Ice Punch  
+- Hypnosis  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Double-Edge  
+- Fire Blast  
+
+Steelix (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Tyranitar (M) @ Leftovers  
+- Curse  
+- Rock Slide  
+- Roar  
+- Pursuit  
+
+
+=== [gen2ou] Lavos (choolio MegaHounDon) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Rapid Spin  
+
+Rhydon (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Rock Slide  
+- Roar  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Belly Drum  
+- Lovely Kiss  
+- Return  
+
+Meganium (M) @ Leftovers  
+- Reflect  
+- Leech Seed  
+- Razor Leaf  
+- Synthesis  
+
+Houndoom (M) @ Leftovers  
+- Sunny Day  
+- Pursuit  
+- Solar Beam  
+- Fire Blast  
+
+
+=== [gen2ou] Lavos (SubPass Vaporeon) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Cloyster (M) @ Leftovers  
+- Spikes  
+- Surf  
+- Toxic  
+- Explosion  
+
+Jynx @ Leftovers  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Vaporeon (M) @ Leftovers  
+- Substitute  
+- Baton Pass  
+- Growth  
+- Hydro Pump  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Double-Edge  
+- Earthquake  
+
+Steelix (M) @ Leftovers  
+- Body Slam  
+- Earthquake  
+- Roar  
+- Explosion  
+
+
+=== [gen2ou] Lavos (Baitgar Vap) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Gengar (M)  
+- Thief  
+- Thunderbolt  
+- Ice Punch  
+- Destiny Bond  
+
+Rhydon (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Rock Slide  
+- Roar  
+
+Vaporeon (M) @ Leftovers  
+- Rest  
+- Sleep Talk  
+- Growth  
+- Surf  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Forretress (M) @ Leftovers  
+- Spikes  
+- Rapid Spin  
+- Toxic  
+- Explosion  
+
+
+=== [gen2ou] Lavos (JynxChamp Offense) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunder  
+
+Machamp (M) @ Leftovers  
+IVs: 14 HP / 24 Atk / 26 Def  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Hidden Power [Flying]  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+
+Rhydon (M) @ Leftovers  
+- Curse  
+- Earthquake  
+- Rock Slide  
+- Roar  
+
+Jynx @ Leftovers  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+
+=== [gen2ou] Lavos (Cleric Stall) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]  
+- Thunderbolt  
+
+Starmie @ Leftovers  
+- Surf  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Snorlax (M) @ Leftovers  
+- Rest  
+- Double-Edge  
+- Toxic  
+- Flamethrower  
+
+Meganium (M) @ Leftovers  
+- Reflect  
+- Leech Seed  
+- Toxic  
+- Synthesis  
+
+Umbreon (M) @ Leftovers  
+- Charm  
+- Pursuit  
+- Toxic  
+- Moonlight  
+
+Blissey @ Leftovers  
+- Flamethrower  
+- Heal Bell  
+- Toxic  
+- Soft-Boiled  
+
+
+=== [gen2ou] Mr. 378 (GSC Offense) ===
+
+Zapdos @ Leftovers  
+IVs: 30 HP / 26 Def  
+- Thunder  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+
+Machamp (M) @ Leftovers  
+IVs: 30 HP / 26 Atk / 26 Def  
+- Cross Chop  
+- Earthquake  
+- Hidden Power [Bug]  
+- Curse  
+
+Cloyster (M) @ Leftovers  
+IVs: 14 HP / 28 Atk  
+- Surf  
+- Hidden Power [Electric]  
+- Explosion  
+- Spikes  
+
+Exeggutor (M) @ Leftovers  
+- Giga Drain  
+- Psychic  
+- Explosion  
+- Sleep Powder  
+
+Snorlax (M) @ Leftovers  
+- Body Slam  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
+
+Steelix (M) @ Leftovers  
+- Earthquake  
+- Explosion  
+- Roar  
+- Curse  
+
+
+
