@@ -1027,6 +1027,15 @@ Bold Nature
 - Toxic
 - Soft-Boiled
 
+Rhyperior @ Leftovers
+Ability: Solid Rock
+EVs: 132 HP/192 Atk/168 Spe/16 SpD
+Adamant Nature
+- Substitute
+- Swords Dance
+- Earthquake
+- Stone Edge
+
 
 === [gen4ou] Kevin Garrett (Stall) ===
 
@@ -1922,6 +1931,7 @@ Modest Nature
 
 Raikou @ Choice Scarf
 Ability: Pressure
+Shiny: Yes
 EVs: 4 Def / 252 SpA / 252 Spe
 Rash Nature
 - Thunderbolt
